@@ -1,0 +1,14 @@
+06/23/2016|11:26:02 AM|Info|Log Start
+06/23/2016|11:26:02 AM|Info|Card Reder Hookup Init Ok
+06/23/2016|11:26:02 AM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\CardReaderApp\AppIniFile\AppLayerIni\AppLayerLogSetting\CRHOOKUPLOG.INI
+06/23/2016|11:26:02 AM|Info|StartDevice - Load CardReader CFG Successfully
+06/23/2016|11:26:02 AM|Info|CardReaderDiagStatus Success - 0,D23062016112602,
+06/23/2016|11:26:03 AM|Warn|StartDevice - Init CardReader Failed
+06/23/2016|11:26:06 AM|Info|LockDevice Success
+06/23/2016|11:30:17 AM|Info|Log Start
+06/23/2016|11:30:17 AM|Info|Card Reder Hookup Init Ok
+06/23/2016|11:30:17 AM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\CardReaderApp\AppIniFile\AppLayerIni\AppLayerLogSetting\CRHOOKUPLOG.INI
+06/23/2016|11:30:17 AM|Info|StartDevice - Load CardReader CFG Successfully
+06/23/2016|11:30:17 AM|Info|CardReaderDiagStatus Success - 0,D23062016113017,
+06/23/2016|11:30:17 AM|Warn|StartDevice - Init CardReader Failed
+06/23/2016|11:30:18 AM|Info|LockDevice Success

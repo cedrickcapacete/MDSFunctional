@@ -1,0 +1,11 @@
+3/28/2017|7:57:11 AM|Info|Log Start
+3/28/2017|7:57:11 AM|Info|Printer Hookup Class Init Ok
+3/28/2017|7:57:13 AM|Info|Printer Spooler Status Ok
+3/28/2017|7:57:13 AM|Info|Printer Status:False
+3/28/2017|7:57:13 AM|Info|Printer Failed:False
+3/28/2017|7:57:13 AM|Info|Paper OK:False
+3/28/2017|7:57:13 AM|Info|Paper Low:False
+3/28/2017|7:57:13 AM|Info|Paper End:False
+3/28/2017|7:57:13 AM|Info|Paper Jam:False
+3/28/2017|7:57:13 AM|Info|RaiseEvent EvtDeviceError
+3/28/2017|7:57:13 AM|Warn|StartDevice - Init Receipt Printer Printer Device Failed

@@ -1,0 +1,324 @@
+7/11/2014|10:00:50 AM|Info|Log Start
+7/11/2014|10:00:50 AM|Info|Keypad Layer Class Init Ok
+7/11/2014|10:00:50 AM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|10:00:50 AM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|10:00:50 AM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|10:00:50 AM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|10:00:50 AM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|10:00:50 AM|Info|Comport:COM2
+7/11/2014|10:00:50 AM|Info|Baudrate:115200
+7/11/2014|10:00:50 AM|Info|Timeout:60000
+7/11/2014|10:00:50 AM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|10:00:50 AM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|10:00:50 AM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|10:00:52 AM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|10:00:52 AM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|10:00:52 AM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|10:29:01 AM|Info|Log Start
+7/11/2014|10:29:01 AM|Info|Keypad Layer Class Init Ok
+7/11/2014|10:29:01 AM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|10:29:01 AM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|10:29:01 AM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|10:29:01 AM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|10:29:01 AM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|10:29:01 AM|Info|Comport:COM2
+7/11/2014|10:29:01 AM|Info|Baudrate:115200
+7/11/2014|10:29:01 AM|Info|Timeout:60000
+7/11/2014|10:29:01 AM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|10:29:01 AM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|10:29:01 AM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|10:29:01 AM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|10:29:01 AM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|10:29:01 AM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|10:33:37 AM|Info|Log Start
+7/11/2014|10:33:37 AM|Info|Keypad Layer Class Init Ok
+7/11/2014|10:33:37 AM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|10:33:37 AM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|10:33:37 AM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|10:33:37 AM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|10:33:37 AM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|10:33:37 AM|Info|Comport:COM2
+7/11/2014|10:33:37 AM|Info|Baudrate:115200
+7/11/2014|10:33:37 AM|Info|Timeout:60000
+7/11/2014|10:33:37 AM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|10:33:37 AM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|10:33:37 AM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|10:33:38 AM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|10:33:38 AM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|10:33:38 AM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|10:39:27 AM|Info|Log Start
+7/11/2014|10:39:27 AM|Info|Keypad Layer Class Init Ok
+7/11/2014|10:39:27 AM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|10:39:27 AM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|10:39:27 AM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|10:39:27 AM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|10:39:27 AM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|10:39:27 AM|Info|Comport:COM2
+7/11/2014|10:39:27 AM|Info|Baudrate:115200
+7/11/2014|10:39:27 AM|Info|Timeout:60000
+7/11/2014|10:39:27 AM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|10:39:27 AM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|10:39:27 AM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|10:39:28 AM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|10:39:28 AM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|10:39:28 AM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|12:00:01 PM|Info|Log Start
+7/11/2014|12:00:01 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|12:00:01 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|12:00:01 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|12:00:01 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|12:00:01 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|12:00:01 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|12:00:01 PM|Info|Comport:COM2
+7/11/2014|12:00:01 PM|Info|Baudrate:115200
+7/11/2014|12:00:01 PM|Info|Timeout:60000
+7/11/2014|12:00:01 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|12:00:01 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|12:04:13 PM|Info|Log Start
+7/11/2014|12:04:13 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|12:04:13 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|12:04:13 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|12:04:13 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|12:04:13 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|12:04:13 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|12:04:13 PM|Info|Comport:COM2
+7/11/2014|12:04:13 PM|Info|Baudrate:115200
+7/11/2014|12:04:13 PM|Info|Timeout:60000
+7/11/2014|12:04:13 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|12:04:13 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|12:13:26 PM|Info|Log Start
+7/11/2014|12:13:26 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|12:13:26 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|12:13:26 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|12:13:26 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|12:13:26 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|12:13:26 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|12:13:26 PM|Info|Comport:COM2
+7/11/2014|12:13:26 PM|Info|Baudrate:115200
+7/11/2014|12:13:26 PM|Info|Timeout:60000
+7/11/2014|12:13:26 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|12:13:26 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|12:24:41 PM|Info|Log Start
+7/11/2014|12:24:41 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|12:24:41 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|12:24:41 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|12:24:41 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|12:24:41 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|12:24:41 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|12:24:41 PM|Info|Comport:COM2
+7/11/2014|12:24:41 PM|Info|Baudrate:115200
+7/11/2014|12:24:41 PM|Info|Timeout:60000
+7/11/2014|12:24:41 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|12:24:41 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|12:24:41 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|12:24:41 PM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|12:24:41 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|12:24:41 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|12:26:29 PM|Info|Log Start
+7/11/2014|12:26:29 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|12:26:29 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|12:26:29 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|12:26:29 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|12:26:29 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|12:26:29 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|12:26:29 PM|Info|Comport:COM2
+7/11/2014|12:26:29 PM|Info|Baudrate:115200
+7/11/2014|12:26:29 PM|Info|Timeout:60000
+7/11/2014|12:26:29 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|12:26:29 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|12:26:29 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|12:26:29 PM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|12:26:29 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|12:26:29 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|12:36:07 PM|Info|Log Start
+7/11/2014|12:36:07 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|12:36:07 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|12:36:07 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|12:36:07 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|12:36:07 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|12:36:07 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|12:36:07 PM|Info|Comport:COM2
+7/11/2014|12:36:07 PM|Info|Baudrate:115200
+7/11/2014|12:36:07 PM|Info|Timeout:60000
+7/11/2014|12:36:07 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|12:36:07 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|12:36:07 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|12:36:07 PM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|12:36:07 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|12:36:07 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|2:24:06 PM|Info|Log Start
+7/11/2014|2:24:06 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|2:24:06 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|2:24:06 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|2:24:06 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|2:24:06 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|2:24:06 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|2:24:06 PM|Info|Comport:COM2
+7/11/2014|2:24:06 PM|Info|Baudrate:115200
+7/11/2014|2:24:06 PM|Info|Timeout:60000
+7/11/2014|2:24:06 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|2:24:06 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|2:24:06 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|2:24:07 PM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|2:24:07 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|2:24:07 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|3:14:07 PM|Info|Log Start
+7/11/2014|3:14:07 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|3:14:07 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|3:14:07 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|3:14:07 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|3:14:07 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|3:14:07 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|3:14:07 PM|Info|Comport:COM2
+7/11/2014|3:14:07 PM|Info|Baudrate:115200
+7/11/2014|3:14:07 PM|Info|Timeout:60000
+7/11/2014|3:14:08 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|3:14:08 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|3:14:08 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|3:14:08 PM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|3:14:08 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|3:14:08 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|3:35:27 PM|Info|Log Start
+7/11/2014|3:35:27 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|3:35:27 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|3:35:27 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|3:35:27 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|3:35:27 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|3:35:27 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|3:35:27 PM|Info|Comport:COM2
+7/11/2014|3:35:27 PM|Info|Baudrate:115200
+7/11/2014|3:35:27 PM|Info|Timeout:60000
+7/11/2014|3:35:27 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|3:35:27 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|3:35:27 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|3:35:28 PM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|3:35:28 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|3:35:28 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|3:36:36 PM|Info|Log Start
+7/11/2014|3:36:36 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|3:36:36 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|3:36:36 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|3:36:36 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|3:36:36 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|3:36:36 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|3:36:36 PM|Info|Comport:COM2
+7/11/2014|3:36:36 PM|Info|Baudrate:115200
+7/11/2014|3:36:36 PM|Info|Timeout:60000
+7/11/2014|3:36:36 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|3:36:36 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|3:36:37 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|3:36:37 PM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|3:36:37 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|3:36:37 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|3:49:07 PM|Info|Log Start
+7/11/2014|3:49:07 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|3:49:07 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|3:49:07 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|3:49:07 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|3:49:07 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|3:49:07 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|3:49:07 PM|Info|Comport:COM2
+7/11/2014|3:49:07 PM|Info|Baudrate:115200
+7/11/2014|3:49:07 PM|Info|Timeout:60000
+7/11/2014|3:49:07 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|3:49:07 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|3:49:07 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|3:49:07 PM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|3:49:07 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|3:49:08 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|3:49:23 PM|Info|Log Start
+7/11/2014|3:49:23 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|3:49:23 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|3:49:23 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|3:49:23 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|3:49:23 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|3:49:23 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|3:49:23 PM|Info|Comport:COM2
+7/11/2014|3:49:23 PM|Info|Baudrate:115200
+7/11/2014|3:49:23 PM|Info|Timeout:60000
+7/11/2014|3:49:23 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|3:49:23 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|3:49:23 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|3:49:23 PM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|3:49:23 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|3:49:23 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|4:23:49 PM|Info|Log Start
+7/11/2014|4:23:49 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|4:23:49 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|4:23:49 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|4:23:49 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|4:23:49 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|4:23:49 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|4:23:49 PM|Info|Comport:COM2
+7/11/2014|4:23:49 PM|Info|Baudrate:115200
+7/11/2014|4:23:49 PM|Info|Timeout:60000
+7/11/2014|4:23:49 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|4:23:49 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|4:23:49 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|4:23:50 PM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|4:23:50 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|4:23:50 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|4:24:09 PM|Info|Log Start
+7/11/2014|4:24:09 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|4:24:09 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|4:24:09 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|4:24:09 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|4:24:09 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|4:24:09 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|4:24:09 PM|Info|Comport:COM2
+7/11/2014|4:24:09 PM|Info|Baudrate:115200
+7/11/2014|4:24:09 PM|Info|Timeout:60000
+7/11/2014|4:24:09 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|4:24:09 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|4:24:09 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|4:24:09 PM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|4:24:09 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|4:24:09 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|4:40:38 PM|Info|Log Start
+7/11/2014|4:40:38 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|4:40:38 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|4:40:38 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|4:40:38 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|4:40:38 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|4:40:38 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|4:40:38 PM|Info|Comport:COM2
+7/11/2014|4:40:38 PM|Info|Baudrate:115200
+7/11/2014|4:40:38 PM|Info|Timeout:60000
+7/11/2014|4:40:38 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|4:40:38 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|4:40:38 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|4:40:39 PM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|4:40:39 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|4:40:39 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|4:40:54 PM|Info|Log Start
+7/11/2014|4:40:54 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|4:40:54 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|4:40:54 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|4:40:54 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|4:40:54 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|4:40:54 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|4:40:54 PM|Info|Comport:COM2
+7/11/2014|4:40:54 PM|Info|Baudrate:115200
+7/11/2014|4:40:54 PM|Info|Timeout:60000
+7/11/2014|4:40:54 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|4:40:54 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|4:40:54 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|4:40:54 PM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|4:40:54 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|4:40:55 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+7/11/2014|4:56:34 PM|Info|Log Start
+7/11/2014|4:56:34 PM|Info|Keypad Layer Class Init Ok
+7/11/2014|4:56:34 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+7/11/2014|4:56:34 PM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+7/11/2014|4:56:34 PM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+7/11/2014|4:56:34 PM|Info|Read Sagem Keypad Hardware Setting OK
+7/11/2014|4:56:34 PM|Info|Model:Sagem EPP INT1217-4010
+7/11/2014|4:56:34 PM|Info|Comport:COM2
+7/11/2014|4:56:34 PM|Info|Baudrate:115200
+7/11/2014|4:56:34 PM|Info|Timeout:60000
+7/11/2014|4:56:34 PM|Info|Read Keypad Lookup Data Setting OK
+7/11/2014|4:56:34 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|4:56:34 PM|Info|Read Keypad HWD CFG Info OK
+7/11/2014|4:56:35 PM|Info|clsKeyControl. Send_CmdStartClearTextMode
+7/11/2014|4:56:35 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+7/11/2014|4:56:35 PM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0

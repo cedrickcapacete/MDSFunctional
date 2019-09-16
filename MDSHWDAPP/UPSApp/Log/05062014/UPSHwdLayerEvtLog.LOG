@@ -1,0 +1,64 @@
+6/5/2014|7:43:23 PM|Info|Log Start - clsUPSHwdInterface
+6/5/2014|7:43:23 PM|Info|UPS HWD Interface Init Ok
+6/5/2014|7:43:23 PM|Info|== UPS Hardware Setting ==
+6/5/2014|7:43:23 PM|Info|Enable UPS=True
+6/5/2014|7:43:23 PM|Info|UPS Status Path=E:\MDSHWDAPP\MDSHWD\UPSApp\TestData\user.log
+6/5/2014|7:43:23 PM|Info|Monitor Interval=5000
+6/5/2014|7:43:23 PM|Info|Seperator Field=,
+6/5/2014|7:43:23 PM|Info|UPSServiceStart=1
+6/5/2014|7:43:23 PM|Info|UPSCommunicationEstablished=2
+6/5/2014|7:43:23 PM|Info|UPSServiceStop=3
+6/5/2014|7:43:23 PM|Info|UPSCommunicationLost=4
+6/5/2014|7:43:23 PM|Info|UPSBatteryMode=5
+6/5/2014|7:43:23 PM|Info|UPSPowerSupplyUp =6
+6/5/2014|7:43:23 PM|Info|== UPS Hardware Setting End==
+6/5/2014|7:43:23 PM|Info|Read UPS Lookup Data Setting OK
+6/5/2014|7:43:23 PM|Erro|UPS Status:4- Communication lost
+6/5/2014|7:43:23 PM|Info|RaiseEvent EvtDeviceError
+6/5/2014|7:43:23 PM|Warn|UPS - StartDevice Failed
+6/5/2014|7:55:18 PM|Info|Log Start - clsUPSHwdInterface
+6/5/2014|7:55:18 PM|Info|UPS HWD Interface Init Ok
+6/5/2014|7:55:18 PM|Info|== UPS Hardware Setting ==
+6/5/2014|7:55:18 PM|Info|Enable UPS=True
+6/5/2014|7:55:18 PM|Info|UPS Status Path=E:\MDSHWDAPP\MDSHWD\UPSApp\TestData\user.log
+6/5/2014|7:55:18 PM|Info|Monitor Interval=5000
+6/5/2014|7:55:18 PM|Info|Seperator Field=,
+6/5/2014|7:55:18 PM|Info|UPSServiceStart=1
+6/5/2014|7:55:18 PM|Info|UPSCommunicationEstablished=2
+6/5/2014|7:55:18 PM|Info|UPSServiceStop=3
+6/5/2014|7:55:18 PM|Info|UPSCommunicationLost=4
+6/5/2014|7:55:18 PM|Info|UPSBatteryMode=5
+6/5/2014|7:55:18 PM|Info|UPSPowerSupplyUp =6
+6/5/2014|7:55:18 PM|Info|== UPS Hardware Setting End==
+6/5/2014|7:55:18 PM|Info|Read UPS Lookup Data Setting OK
+6/5/2014|7:55:18 PM|Erro|UPS Status:4- Communication lost
+6/5/2014|7:55:18 PM|Info|RaiseEvent EvtDeviceError
+6/5/2014|7:55:18 PM|Warn|UPS - StartDevice Failed
+6/5/2014|7:55:32 PM|Info|Update UPS Hardware Setting Successfully
+6/5/2014|7:55:32 PM|Info|== UPS Hardware Setting ==
+6/5/2014|7:55:32 PM|Info|Enable UPS=False
+6/5/2014|7:55:32 PM|Info|UPS Status Path=E:\MDSHWDAPP\ReadME DevInfo.txt
+6/5/2014|7:55:32 PM|Info|Monitor Interval=5000
+6/5/2014|7:55:32 PM|Info|Seperator Field=,
+6/5/2014|7:55:32 PM|Info|UPSServiceStart=1
+6/5/2014|7:55:32 PM|Info|UPSCommunicationEstablished=2
+6/5/2014|7:55:32 PM|Info|UPSServiceStop=3
+6/5/2014|7:55:32 PM|Info|UPSCommunicationLost=4
+6/5/2014|7:55:32 PM|Info|UPSBatteryMode=5
+6/5/2014|7:55:32 PM|Info|UPSPowerSupplyUp =6
+6/5/2014|7:55:32 PM|Info|== UPS Hardware Setting End==
+6/5/2014|7:55:32 PM|Info|Read UPS Hardware Setting Successfully
+6/5/2014|7:55:52 PM|Info|Update UPS Hardware Setting Successfully
+6/5/2014|7:55:52 PM|Info|== UPS Hardware Setting ==
+6/5/2014|7:55:52 PM|Info|Enable UPS=True
+6/5/2014|7:55:52 PM|Info|UPS Status Path=E:\MDSHWDAPP\MDSHWD\UPSApp\TestData\user.log
+6/5/2014|7:55:52 PM|Info|Monitor Interval=5000
+6/5/2014|7:55:52 PM|Info|Seperator Field=,
+6/5/2014|7:55:52 PM|Info|UPSServiceStart=1
+6/5/2014|7:55:52 PM|Info|UPSCommunicationEstablished=2
+6/5/2014|7:55:52 PM|Info|UPSServiceStop=3
+6/5/2014|7:55:52 PM|Info|UPSCommunicationLost=4
+6/5/2014|7:55:52 PM|Info|UPSBatteryMode=5
+6/5/2014|7:55:52 PM|Info|UPSPowerSupplyUp =6
+6/5/2014|7:55:52 PM|Info|== UPS Hardware Setting End==
+6/5/2014|7:55:52 PM|Info|Read UPS Hardware Setting Successfully

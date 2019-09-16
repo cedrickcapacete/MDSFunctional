@@ -1,0 +1,16 @@
+06/23/2016|11:26:01 AM|Info|Log Start
+06/23/2016|11:26:01 AM|Info|EPP Hookup Class Init Ok
+06/23/2016|11:26:01 AM|Info|EPP Hookup Log Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHookupLOG.INI
+06/23/2016|11:26:01 AM|Info|Read Keypad Hardware Setting Ok
+06/23/2016|11:26:01 AM|Info|Init Keypad Hardware Ok
+06/23/2016|11:26:02 AM|Erro|Init Keypad Device Failed
+06/23/2016|11:26:02 AM|Warn|Raise event in Keypad: EvtDeviceError
+06/23/2016|11:26:06 AM|Info|WrapDevice iDeviceTrace ID:Q23062016112606
+06/23/2016|11:30:17 AM|Info|Log Start
+06/23/2016|11:30:17 AM|Info|EPP Hookup Class Init Ok
+06/23/2016|11:30:17 AM|Info|EPP Hookup Log Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHookupLOG.INI
+06/23/2016|11:30:17 AM|Info|Read Keypad Hardware Setting Ok
+06/23/2016|11:30:17 AM|Info|Init Keypad Hardware Ok
+06/23/2016|11:30:17 AM|Erro|Init Keypad Device Failed
+06/23/2016|11:30:17 AM|Warn|Raise event in Keypad: EvtDeviceError
+06/23/2016|11:30:18 AM|Info|WrapDevice iDeviceTrace ID:Q23062016113018

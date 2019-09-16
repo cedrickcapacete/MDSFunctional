@@ -1,0 +1,36 @@
+3/28/2017|7:57:18 AM|Info|Log Start  - ClsMDSXFS
+3/28/2017|7:57:18 AM|Info|MDS XFS Wrapper Layer Class Init Ok
+3/28/2017|7:57:18 AM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\CashChqApp\AppIniFile\AppLayerIni\AppLayerLogSetting\XFSWRAPPERHWDLOG.INI
+3/28/2017|7:57:18 AM|Info|XFS HWD INI PATH:E:\MDSHWDAPP\MDSHWD\CashChqApp\AppIniFile\AppLayerIni\AppLayerParamSetting\MDSHWDCFG.INI
+3/28/2017|7:57:18 AM|Info|==== Start Read MDS Setting ====
+3/28/2017|7:57:18 AM|Info|Read MDS HWD CFG Info OK
+3/28/2017|7:57:18 AM|Info|MDS EnableOpt:True
+3/28/2017|7:57:18 AM|Info|PortNum:3
+3/28/2017|7:57:18 AM|Info|OperationMode:CIM
+3/28/2017|7:57:18 AM|Info|TraceFile:F:\MDSTRACEFILE\
+3/28/2017|7:57:18 AM|Info|ChequeImgPath:F:\MDSCHQIMG\
+3/28/2017|7:57:18 AM|Info|TemplateFile:
+3/28/2017|7:57:18 AM|Info|InsertItemTimeout:30
+3/28/2017|7:57:18 AM|Info|RepositionDoc:30
+3/28/2017|7:57:18 AM|Info|TakeReturn:30
+3/28/2017|7:57:18 AM|Info|CleanFeeder:30
+3/28/2017|7:57:18 AM|Info|ForceAcceptCheque:False
+3/28/2017|7:57:18 AM|Info|Min MICR Length:20
+3/28/2017|7:57:18 AM|Info|Max MICR QMark:20
+3/28/2017|7:57:18 AM|Info|MDS ErrStatus Control String:WFS_SYSE_HARDWARE_ERROR (Missing reply to periodic ping.)
+3/28/2017|7:57:18 AM|Info|Read DEPOSITOR Device Code - CASH OK
+3/28/2017|7:57:18 AM|Info|Device NAME:CASHDEPOSITORY
+3/28/2017|7:57:18 AM|Info|Read DEPOSITOR Device Code - CHEQUE OK
+3/28/2017|7:57:18 AM|Info|Device NAME:CHEQUEDEPOSITORY
+3/28/2017|7:57:18 AM|Info|Read DEPOSITOR Device Code - DOOR OK
+3/28/2017|7:57:18 AM|Info|Device NAME:DOOR
+3/28/2017|7:57:18 AM|Info|==== End Read MDS Setting ====
+3/28/2017|7:57:19 AM|Info|clsMDSXFS.InitCASHDEPOSITHWD
+3/28/2017|7:57:19 AM|Info|clsMDSXFS - InitCASHDEPOSITObject
+3/28/2017|7:57:19 AM|Erro|Error in clsMDSXFS.InitCASHDEPOSITObject: Could not load file or assembly 'QlmLicenseLib, Version=6.0.12262.1, Culture=neutral, PublicKeyToken=9c65e32c060523a1' or one of its dependencies. The system cannot find the file specified.
+3/28/2017|7:57:21 AM|Info|clsMDSXFS.InitCASHDEPOSITHWD
+3/28/2017|7:57:21 AM|Info|clsMDSXFS - InitCASHDEPOSITObject
+3/28/2017|7:57:21 AM|Erro|Error in clsMDSXFS.InitCASHDEPOSITObject: Could not load file or assembly 'QlmLicenseLib, Version=6.0.12262.1, Culture=neutral, PublicKeyToken=9c65e32c060523a1' or one of its dependencies. The system cannot find the file specified.
+3/28/2017|7:57:23 AM|Info|clsMDSXFS.InitCASHDEPOSITHWD
+3/28/2017|7:57:23 AM|Info|clsMDSXFS - InitCASHDEPOSITObject
+3/28/2017|7:57:23 AM|Erro|Error in clsMDSXFS.InitCASHDEPOSITObject: Could not load file or assembly 'QlmLicenseLib, Version=6.0.12262.1, Culture=neutral, PublicKeyToken=9c65e32c060523a1' or one of its dependencies. The system cannot find the file specified.

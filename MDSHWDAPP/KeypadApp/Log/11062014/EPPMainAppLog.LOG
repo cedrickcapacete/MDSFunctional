@@ -1,0 +1,26 @@
+6/11/2014|1:22:40 PM|Info|Log Start
+6/11/2014|1:22:40 PM|Info|EPP Main App Init Ok
+6/11/2014|1:22:40 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPMAINAPPLOG.INI
+6/11/2014|1:22:40 PM|Info|App HSK INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppHSKCFG.ini
+6/11/2014|1:22:40 PM|Info|App Mode Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\
+6/11/2014|1:22:40 PM|Info|AutoHSKLog: HskDate Delete Log File before:4/12/2014 Housekeeping routines day:60
+6/11/2014|1:22:40 PM|Info|AutoHSKLog:Total Log Folder Deleted:0
+6/11/2014|1:22:40 PM|Warn|App Mode INI File:E:\MDSHWDAPP\MDSHWD\KeypadApp\ Not Found
+6/11/2014|1:22:41 PM|Info|Keypad Diagnostic Mode Selected - Engineer
+6/11/2014|1:22:41 PM|Info|== Start Keypad Diagnostic Mode ==
+6/11/2014|1:22:42 PM|Info|== End Keypad Diagnostic Mode ==
+6/11/2014|1:22:45 PM|Info|Log End
+6/11/2014|1:23:27 PM|Info|Log Start
+6/11/2014|1:23:27 PM|Info|EPP Main App Init Ok
+6/11/2014|1:23:27 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPMAINAPPLOG.INI
+6/11/2014|1:23:27 PM|Info|App HSK INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppHSKCFG.ini
+6/11/2014|1:23:27 PM|Info|App Mode Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppCFG.ini
+6/11/2014|1:23:27 PM|Info|AutoHSKLog: HskDate Delete Log File before:4/12/2014 Housekeeping routines day:60
+6/11/2014|1:23:27 PM|Info|AutoHSKLog:Total Log Folder Deleted:0
+6/11/2014|1:23:27 PM|Info|App Mode =0
+6/11/2014|1:23:28 PM|Info|Keypad Diagnostic Mode Selected - Engineer
+6/11/2014|1:23:28 PM|Info|== Start Keypad Diagnostic Mode ==
+6/11/2014|1:23:33 PM|Info|== Start Keypad Setting ==
+6/11/2014|1:23:34 PM|Info|== End Keypad Setting ==
+6/11/2014|1:23:36 PM|Info|== End Keypad Diagnostic Mode ==
+6/11/2014|1:23:36 PM|Info|Log End

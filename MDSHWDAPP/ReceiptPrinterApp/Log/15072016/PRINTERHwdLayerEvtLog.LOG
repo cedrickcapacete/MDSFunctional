@@ -1,0 +1,23 @@
+07/15/2016|9:45:02 AM|Info|Log Start
+07/15/2016|9:45:02 AM|Info|Receipt Printer Layer Class Init Ok
+07/15/2016|9:45:02 AM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\ReceiptPrinterApp\AppIniFile\AppLayerIni\AppLayerLogSetting\PRINTERHWDLOG.INI
+07/15/2016|9:45:02 AM|Info|Receipt Printer HWD INI PATH:E:\MDSHWDAPP\MDSHWD\ReceiptPrinterApp\AppIniFile\AppLayerIni\AppLayerParamSetting\PRINTERHWDCFG.INI
+07/15/2016|9:45:02 AM|Info|Receipt Printer Properties INI PATH:E:\MDSHWDAPP\MDSHWD\ReceiptPrinterApp\AppIniFile\AppLayerIni\AppLayerParamSetting\PRINTERSTATECODE.INI
+07/15/2016|9:45:02 AM|Info|Receipt Printer Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\ReceiptPrinterApp\AppIniFile\AppLayerIni\AppLayerParamSetting\RECEIPTSETTING.INI
+07/15/2016|9:45:02 AM|Info|Read CUSTOM Printer Hardware Setting OK
+07/15/2016|9:45:02 AM|Info|Custom Printer Name:Custom VKP80II (200dpi)
+07/15/2016|9:45:02 AM|Info|Left Margin:10
+07/15/2016|9:45:02 AM|Info|Top Margin:0
+07/15/2016|9:45:02 AM|Info|Bottom Margin:0
+07/15/2016|9:45:02 AM|Info|Right Margin:10
+07/15/2016|9:45:02 AM|Info|Bypass Unknown Printer Status:True
+07/15/2016|9:45:02 AM|Info|Paper Ok Value:8388608,2147483648,0
+07/15/2016|9:45:02 AM|Info|Paper Jammed Value:8388609,1,419430,4194336
+07/15/2016|9:45:02 AM|Info|Paper Low Value:8388612,4,2147483680,2158679008
+07/15/2016|9:45:02 AM|Info|Paper Out Value:8388609,1,5,2147483649
+07/15/2016|9:45:02 AM|Info|Printer DW Value:280
+07/15/2016|9:45:02 AM|Info|Read Printer Properties Setting OK
+07/15/2016|9:45:02 AM|Info|Read Receipt Printer Lookup Data Setting OK
+07/15/2016|9:45:02 AM|Info|Read Receipt Printer HWD CFG Info OK
+07/15/2016|9:45:02 AM|Info|InitPrinterConnection dwReturn Value =0
+07/15/2016|9:45:02 AM|Info|Printer Status: Offline

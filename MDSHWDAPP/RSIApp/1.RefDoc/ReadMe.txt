@@ -1,0 +1,6 @@
+RSI - 4 Light
+==============
+1.NETWORK
+2.OUT OF SERVICE
+3.CARD READER
+4.ADVICE

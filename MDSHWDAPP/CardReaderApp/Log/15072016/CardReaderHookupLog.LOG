@@ -1,0 +1,7 @@
+07/15/2016|9:44:59 AM|Info|Log Start
+07/15/2016|9:44:59 AM|Info|Card Reder Hookup Init Ok
+07/15/2016|9:44:59 AM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\CardReaderApp\AppIniFile\AppLayerIni\AppLayerLogSetting\CRHOOKUPLOG.INI
+07/15/2016|9:44:59 AM|Info|StartDevice - Load CardReader CFG Successfully
+07/15/2016|9:44:59 AM|Info|CardReaderDiagStatus Success - 0,D15072016094459,
+07/15/2016|9:45:02 AM|Warn|StartDevice - Init CardReader Failed
+07/15/2016|9:45:04 AM|Info|LockDevice Success

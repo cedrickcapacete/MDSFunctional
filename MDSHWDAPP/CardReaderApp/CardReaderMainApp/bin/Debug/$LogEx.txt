@@ -1,0 +1,24 @@
+;===================================================================================================
+; ICT3Q8_0171DLL.dll  Revision: 2591-02B                                                            
+; PrtclRS8.dll  Revision: 2567-01L                                                                  
+; CollectLogEx.dll Revision: 2509-02A                                                               
+;===================================================================================================
+[2013/06/10]                                                                                        
+[17:14:20.114] COM1 > ConnectDevice( 2615636baud)                                                   
+[17:14:20.114] COM1 > /TimeoutForAckOrNak=2000                                                      
+[17:14:20.114] COM1 > /MaximumCommandRetryCount=3                                                   
+[17:14:20.114] COM1 > /MaximumReplyRequireCount=3                                                   
+[17:14:20.114] COM1 > /TimeoutOfCharacter=1000                                                      
+[17:14:20.114] COM1 > /DelayTimeForReaction=5                                                       
+[17:14:20.114] COM1 > /CommandToCommandInterval=5                                                   
+[17:14:20.114] COM1 > /CheckDSRStatus=1                                                             
+[17:14:20.114] COM1 > /ControlDTRStatus=1                                                           
+[17:14:20.114] COM1 > /CheckCTSStatus=1                                                             
+[17:14:20.114] COM1 > /ControlRTSStatus=1                                                           
+[17:14:20.114] COM1 > /ThresholdForDetermingPowerOff=100                                            
+[17:14:20.114] COM1 > /TimeoutForCancellation=2000                                                  
+[17:14:20.114] COM1 > /MaximumCancellationRetryCount=3                                              
+[17:14:20.114] COM1 > /MonitorTransaction=0                                                         
+[17:14:20.114] COM1 > Invalid baudrate:2615636 baud                                                 
+[17:14:20.239] COM1 > ~ConnectDevice failed returning 103H.                                         
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

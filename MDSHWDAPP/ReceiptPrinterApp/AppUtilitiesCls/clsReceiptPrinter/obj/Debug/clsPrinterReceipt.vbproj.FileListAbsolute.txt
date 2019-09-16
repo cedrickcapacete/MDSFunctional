@@ -1,0 +1,10 @@
+E:\MDSHWDLayerControlPanel\PrinterReciptControlPanel\HWDLayerCls\clsPrinterReceipt\bin\Debug\clsPrinterReceipt.dll
+E:\MDSHWDLayerControlPanel\PrinterReciptControlPanel\HWDLayerCls\clsPrinterReceipt\bin\Debug\clsPrinterReceipt.pdb
+E:\MDSHWDLayerControlPanel\PrinterReciptControlPanel\HWDLayerCls\clsPrinterReceipt\bin\Debug\clsPrinterReceipt.xml
+E:\MDSHWDLayerControlPanel\PrinterReciptControlPanel\HWDLayerCls\clsPrinterReceipt\obj\Debug\ResolveAssemblyReference.cache
+E:\MDSHWDLayerControlPanel\PrinterReciptControlPanel\HWDLayerCls\clsPrinterReceipt\obj\Debug\clsPrinterReceipt.Resources.resources
+E:\MDSHWDLayerControlPanel\PrinterReciptControlPanel\HWDLayerCls\clsPrinterReceipt\obj\Debug\GenerateResource.read.1.tlog
+E:\MDSHWDLayerControlPanel\PrinterReciptControlPanel\HWDLayerCls\clsPrinterReceipt\obj\Debug\GenerateResource.write.1.tlog
+E:\MDSHWDLayerControlPanel\PrinterReciptControlPanel\HWDLayerCls\clsPrinterReceipt\obj\Debug\clsPrinterReceipt.dll
+E:\MDSHWDLayerControlPanel\PrinterReciptControlPanel\HWDLayerCls\clsPrinterReceipt\obj\Debug\clsPrinterReceipt.xml
+E:\MDSHWDLayerControlPanel\PrinterReciptControlPanel\HWDLayerCls\clsPrinterReceipt\obj\Debug\clsPrinterReceipt.pdb

@@ -1,0 +1,23 @@
+3/28/2017|7:56:57 AM|Info|Log Start
+3/28/2017|7:56:57 AM|Info|== RSI HWD Class Init Ok ==
+3/28/2017|7:56:57 AM|Info|Logger Ini Path:E:\MDSHWDAPP\MDSHWD\RSIApp\AppIniFile\AppLayerIni\AppLayerLogSetting\RSIHWDLOG.INI
+3/28/2017|7:56:57 AM|Info|RSI HWD Setting:E:\MDSHWDAPP\MDSHWD\RSIApp\AppIniFile\AppLayerIni\AppLayerParamSetting\RSIHWDCFG.INI
+3/28/2017|7:56:57 AM|Info|RSI Code Setting:E:\MDSHWDAPP\MDSHWD\RSIApp\AppIniFile\AppLayerIni\AppLayerParamSetting\RSISTATECODE.INI
+3/28/2017|7:56:57 AM|Info|== RSI Hardware Setting ==
+3/28/2017|7:56:57 AM|Info|Enable RSI=True
+3/28/2017|7:56:57 AM|Info|RSI No of Comport=1
+3/28/2017|7:56:57 AM|Info|Comport 1=5
+3/28/2017|7:56:57 AM|Info|Baudrate=9600
+3/28/2017|7:56:57 AM|Info|Parity=0
+3/28/2017|7:56:57 AM|Info|Databits=8
+3/28/2017|7:56:57 AM|Info|Stopbits=1
+3/28/2017|7:56:57 AM|Info|Comport 2=6
+3/28/2017|7:56:57 AM|Info|Baudrate=9600
+3/28/2017|7:56:57 AM|Info|Parity=0
+3/28/2017|7:56:57 AM|Info|Databits=8
+3/28/2017|7:56:57 AM|Info|Stopbits=1
+3/28/2017|7:56:57 AM|Info|== RSI Hardware Setting End==
+3/28/2017|7:56:57 AM|Info|Read RSI Lookup Data Setting OK
+3/28/2017|7:57:03 AM|Erro|Error in InitRSICommunication:The port 'COM5' does not exist.
+3/28/2017|7:57:03 AM|Info|RaiseEvent EvtDeviceError
+3/28/2017|7:57:03 AM|Erro|RSI - StartDevice Failed

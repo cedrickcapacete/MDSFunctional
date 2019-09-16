@@ -1,0 +1,193 @@
+E:\MDS9000_FI\BACKUP\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+E:\MDS9000_FI\BACKUP\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+E:\MDS9000_FI\BACKUP\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\MDS9000_FI\BACKUP\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\MDS9000_FI\BACKUP\WpfApplication1\bin\Debug\clsHWDGlobalInterface.dll
+E:\MDS9000_FI\BACKUP\WpfApplication1\bin\Debug\MDS Wrapper Control.dll
+E:\MDS9000_FI\BACKUP\WpfApplication1\bin\Debug\MDSModuleControl.dll
+E:\MDS9000_FI\BACKUP\WpfApplication1\bin\Debug\MDSXFSWrapper.dll
+E:\MDS9000_FI\BACKUP\WpfApplication1\bin\Debug\Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll
+E:\MDS9000_FI\BACKUP\WpfApplication1\bin\Debug\QlmLicenseLib.dll
+E:\MDS9000_FI\BACKUP\WpfApplication1\bin\Debug\FileUtils.dll
+E:\MDS9000_FI\BACKUP\WpfApplication1\bin\Debug\clsAppLogger.dll
+E:\MDS9000_FI\BACKUP\WpfApplication1\bin\Debug\clsAppLayer.dll
+E:\MDS9000_FI\BACKUP\WpfApplication1\bin\Debug\clsAppMainDirectory.dll
+E:\MDS9000_FI\BACKUP\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\MDS9000_FI\BACKUP\WpfApplication1\obj\x86\Debug\MainWindow.baml
+E:\MDS9000_FI\BACKUP\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+E:\MDS9000_FI\BACKUP\WpfApplication1\obj\x86\Debug\SCREENFLOW\InsertItems.g.cs
+E:\MDS9000_FI\BACKUP\WpfApplication1\obj\x86\Debug\SCREENFLOW\Initialization.g.cs
+E:\MDS9000_FI\BACKUP\WpfApplication1\obj\x86\Debug\App.g.cs
+E:\MDS9000_FI\BACKUP\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+E:\MDS9000_FI\BACKUP\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.lref
+E:\MDS9000_FI\BACKUP\WpfApplication1\obj\x86\Debug\SCREENFLOW\InsertItems.baml
+E:\MDS9000_FI\BACKUP\WpfApplication1\obj\x86\Debug\SCREENFLOW\Initialization.baml
+E:\MDS9000_FI\BACKUP\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+E:\MDS9000_FI\BACKUP\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+E:\MDS9000_FI\BACKUP\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\WpfApplication1.exe
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\WpfApplication1.pdb
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\bin\Debug\clsHWDGlobalInterface.dll
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\bin\Debug\MDS Wrapper Control.dll
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\bin\Debug\MDSModuleControl.dll
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\bin\Debug\MDSXFSWrapper.dll
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\bin\Debug\Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\bin\Debug\QlmLicenseLib.dll
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\bin\Debug\FileUtils.dll
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\bin\Debug\clsAppLogger.dll
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\bin\Debug\clsAppLayer.dll
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\bin\Debug\clsAppMainDirectory.dll
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\MainWindow.baml
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_Advertisement.g.cs
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_EnterAccountNo.g.cs
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_Initialization.g.cs
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_InsertItem.g.cs
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_OutofService.g.cs
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_Processing.g.cs
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_SelAccountType.g.cs
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_SelTransaction.g.cs
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_Summary.g.cs
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\App.g.cs
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.cache
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\WpfApplication1_MarkupCompile.lref
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_Advertisement.baml
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_EnterAccountNo.baml
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_Initialization.baml
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_InsertItem.baml
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_OutofService.baml
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_Processing.baml
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_SelAccountType.baml
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_SelTransaction.baml
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\Win_Summary.baml
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\WpfApplication1.g.resources
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+E:\MDS9000_FI\BACKUP\meow meow\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\MDS9000_FI\WpfApplication1\bin\Debug\APP.exe
+E:\MDS9000_FI\WpfApplication1\bin\Debug\APP.pdb
+E:\MDS9000_FI\WpfApplication1\bin\Debug\clsHWDGlobalInterface.dll
+E:\MDS9000_FI\WpfApplication1\bin\Debug\MDS Wrapper Control.dll
+E:\MDS9000_FI\WpfApplication1\bin\Debug\MDSModuleControl.dll
+E:\MDS9000_FI\WpfApplication1\bin\Debug\MDSXFSWrapper.dll
+E:\MDS9000_FI\WpfApplication1\bin\Debug\Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll
+E:\MDS9000_FI\WpfApplication1\bin\Debug\QlmLicenseLib.dll
+E:\MDS9000_FI\WpfApplication1\bin\Debug\FileUtils.dll
+E:\MDS9000_FI\WpfApplication1\bin\Debug\clsAppLogger.dll
+E:\MDS9000_FI\WpfApplication1\bin\Debug\clsAppLayer.dll
+E:\MDS9000_FI\WpfApplication1\bin\Debug\clsAppMainDirectory.dll
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\MainWindow.baml
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\MainWindow.g.cs
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_Advertisement.g.cs
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_EnterAccountNo.g.cs
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_Initialization.g.cs
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_InsertItem.g.cs
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_OutofService.g.cs
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_TakeReturnedItems.g.cs
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_Processing.g.cs
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_SelAccountType.g.cs
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_SelTransaction.g.cs
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_Summary.g.cs
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\App.g.cs
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\APP_MarkupCompile.cache
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\APP_MarkupCompile.lref
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_Advertisement.baml
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_EnterAccountNo.baml
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_Initialization.baml
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_InsertItem.baml
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_OutofService.baml
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_TakeReturnedItems.baml
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_Processing.baml
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_SelAccountType.baml
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_SelTransaction.baml
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_Summary.baml
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\APP.g.resources
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\APP.exe
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\APP.pdb
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_DisplayAccountInfo.g.cs
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_DisplayAccountInfo.baml
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_Cancel.g.cs
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_Cancel.baml
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_SelMode.g.cs
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\Win_SelMode.baml
+E:\MDS9000_FI\WpfApplication1\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\APP.exe.config
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\APP.exe
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\APP.pdb
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\clsAppLayer.dll
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\clsAppLogger.dll
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\clsAppMainDirectory.dll
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\clsHWDGlobalInterface.dll
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\FileUtils.dll
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\MDS Wrapper Control.dll
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\MDSModuleControl.dll
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\MDSXFSWrapper.dll
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\QlmLicenseLib.dll
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\clsAppLayer.pdb
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\clsAppLayer.xml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\clsAppLogger.pdb
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\clsAppLogger.xml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\clsAppMainDirectory.pdb
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\clsAppMainDirectory.xml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\FileUtils.pdb
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\bin\Debug\FileUtils.xml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\MainWindow.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Cassette.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Password.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Maintenance.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_TimeOut.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Cancel.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Counterfeit.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_TakeReturnItem.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_RepositionDocument.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_DisplayAccountInfo.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_EnterChequeAmount.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_EnterBillerAccountNo.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_EnterAccountNo.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_CleanFeeder.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_SelectAccoutType.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_SelectMode.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_SelectTrans.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Summary.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Processing.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_InsertItem.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_OutOfService.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Advertisement.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Initialization.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\MainWindow.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\App.g.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\APP_MarkupCompile.cache
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\APP_MarkupCompile.lref
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Cassette.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Password.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Maintenance.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_TimeOut.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Cancel.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Counterfeit.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_TakeReturnItem.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_RepositionDocument.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_DisplayAccountInfo.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_EnterChequeAmount.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_EnterBillerAccountNo.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_EnterAccountNo.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_CleanFeeder.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_SelectAccoutType.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_SelectMode.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_SelectTrans.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Summary.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Processing.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_InsertItem.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_OutOfService.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Advertisement.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\Page_Initialization.baml
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\APP.g.resources
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\APP.exe
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\APP.pdb
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\WpfApplication1.csprojResolveAssemblyReference.cache

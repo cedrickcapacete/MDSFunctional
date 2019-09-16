@@ -1,0 +1,220 @@
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.exe
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.pdb
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.xml
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\ClsAppLayerINI.dll
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.dll
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\clsLogFileLogger.dll
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\clsSysAppPathCFG.dll
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\FileUtils.dll
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\ClsAppLayerINI.pdb
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\ClsAppLayerINI.xml
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\clsLogFileLogger.pdb
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\clsLogFileLogger.xml
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\clsSysAppPathCFG.pdb
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\clsSysAppPathCFG.xml
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.pdb
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.xml
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.CardReaderMainApp.resources
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.Resources.resources
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.exe
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.xml
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.pdb
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.exe.config
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\clsHWDGlobalInterface.dll
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.dll
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.pdb
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\NDC Integration\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.xml
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.exe.config
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.exe
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.pdb
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.xml
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.dll
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\ClsAppLayerINI.dll
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.dll
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\clsHWDGlobalInterface.dll
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\clsLogFileLogger.dll
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\clsSysAppPathCFG.dll
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\FileUtils.dll
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\ClsAppLayerINI.pdb
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\ClsAppLayerINI.xml
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\clsLogFileLogger.pdb
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\clsLogFileLogger.xml
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\clsSysAppPathCFG.pdb
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\clsSysAppPathCFG.xml
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.pdb
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.xml
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.pdb
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.xml
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.CardReaderMainApp.resources
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.Resources.resources
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.exe
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.xml
+E:\MDSHWDControlPanel\HWDLAYER\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.pdb
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.exe.config
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.exe
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.xml
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.pdb
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.exe
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.pdb
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.xml
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.dll
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\ClsAppLayerINI.dll
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.dll
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\clsHWDGlobalInterface.dll
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\clsLogFileLogger.dll
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\clsSysAppPathCFG.dll
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\FileUtils.dll
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\ClsAppLayerINI.pdb
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\ClsAppLayerINI.xml
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\clsLogFileLogger.pdb
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\clsLogFileLogger.xml
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\clsSysAppPathCFG.pdb
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\clsSysAppPathCFG.xml
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.pdb
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.xml
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.pdb
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.xml
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.CardReaderMainApp.resources
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.Resources.resources
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Machine\MDS Project\Rototype Software\SankyoDemo\CardReaderApp\CardReaderMainApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.exe.config
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.exe
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.xml
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.pdb
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.exe
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.pdb
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.xml
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.dll
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\ClsAppLayerINI.dll
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.dll
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsHWDGlobalInterface.dll
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsLogFileLogger.dll
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsSysAppPathCFG.dll
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\FileUtils.dll
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\ClsAppLayerINI.pdb
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\ClsAppLayerINI.xml
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsLogFileLogger.pdb
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsLogFileLogger.xml
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsSysAppPathCFG.pdb
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsSysAppPathCFG.xml
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.pdb
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.xml
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.pdb
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.xml
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.CardReaderMainApp.resources
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.Resources.resources
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.exe.config
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.exe
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.xml
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.pdb
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.exe
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.pdb
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.xml
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.dll
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\ClsAppLayerINI.dll
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.dll
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsHWDGlobalInterface.dll
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsLogFileLogger.dll
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsSysAppPathCFG.dll
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\FileUtils.dll
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\ClsAppLayerINI.pdb
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\ClsAppLayerINI.xml
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsLogFileLogger.pdb
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsLogFileLogger.xml
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsSysAppPathCFG.pdb
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsSysAppPathCFG.xml
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.pdb
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.xml
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.pdb
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.xml
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.CardReaderMainApp.resources
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.Resources.resources
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Machine\MDS Project\MDSDev\HWDLayer\CardReaderApp\CardReaderMainApp\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\HWDAPP\BACKUP\SVNCOPY MDS\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.exe.config
+E:\HWDAPP\BACKUP\SVNCOPY MDS\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.exe
+E:\HWDAPP\BACKUP\SVNCOPY MDS\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.xml
+E:\HWDAPP\BACKUP\SVNCOPY MDS\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.pdb
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.exe.config
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.exe
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.xml
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.pdb
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.vbprojResolveAssemblyReference.cache
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.CardReaderMainApp.resources
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.Resources.resources
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.vbproj.GenerateResource.Cache
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.exe
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.pdb
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.xml
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.dll
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.dll
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsHWDGlobalInterface.dll
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\FileUtils.dll
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.pdb
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.xml
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.pdb
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.xml
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppMainDirectory.dll
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppMainDirectory.pdb
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppMainDirectory.xml
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppLayer.dll
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppLogger.dll
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppLayer.pdb
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppLayer.xml
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppLogger.pdb
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppLogger.xml
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsHWDGlobalInterface.pdb
+E:\HWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsHWDGlobalInterface.xml
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.exe.config
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.exe
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.xml
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.pdb
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.exe
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.pdb
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.xml
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.dll
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppLayer.dll
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppLogger.dll
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppMainDirectory.dll
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.dll
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsHWDGlobalInterface.dll
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\FileUtils.dll
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.pdb
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderHWD.xml
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.pdb
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsCardReader.xml
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppLayer.pdb
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppLayer.xml
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppLogger.pdb
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppLogger.xml
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppMainDirectory.pdb
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsAppMainDirectory.xml
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsHWDGlobalInterface.pdb
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\clsHWDGlobalInterface.xml
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.vbprojResolveAssemblyReference.cache
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.CardReaderMainApp.resources
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.Resources.resources
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.vbproj.GenerateResource.Cache
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\FileUtils.pdb
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\bin\Debug\FileUtils.xml
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.frmCardReaderSetting.resources
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.frmMainCFG.resources
+E:\MDSHWDAPP\MDSHWD\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.frmMaintenanceMode.resources
+C:\Users\FUNCTIONAL INC\Desktop\MDS Supporting Docs\MDSHWDAPP\CardReaderApp\CardReaderMainApp\bin\Debug\CardReaderMainApp.exe.config
+C:\Users\FUNCTIONAL INC\Desktop\MDS Supporting Docs\MDSHWDAPP\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.exe
+C:\Users\FUNCTIONAL INC\Desktop\MDS Supporting Docs\MDSHWDAPP\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.xml
+C:\Users\FUNCTIONAL INC\Desktop\MDS Supporting Docs\MDSHWDAPP\CardReaderApp\CardReaderMainApp\obj\x86\Debug\CardReaderMainApp.pdb

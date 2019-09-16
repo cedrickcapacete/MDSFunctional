@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6A73FA72-740C-4C77-9D3B-3C41C5BD0D0F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WpfApplication1</RootNamespace>
+    <AssemblyName>APP</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>_MDS9000.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="clsAppLayer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>MDSHWDAPP\MDSAppUtilitiesCls\clsAppLayer\clsAppLayer\bin\Debug\clsAppLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="clsAppLogger, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>MDSHWDAPP\MDSAppUtilitiesCls\clsAppLogger\clsAppLogger\bin\Debug\clsAppLogger.dll</HintPath>
+    </Reference>
+    <Reference Include="clsAppMainDirectory, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>MDSHWDAPP\MDSAppUtilitiesCls\clsAppLayer\clsAppLayer\bin\Debug\clsAppMainDirectory.dll</HintPath>
+    </Reference>
+    <Reference Include="clsHWDGlobalInterface, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\clsHWDGlobalInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="FileUtils, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>MDSHWDAPP\MDSAppUtilitiesCls\clsAppLayer\clsAppLayer\bin\Debug\FileUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="MDS Wrapper Control, Version=2.4.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\MDS Wrapper Control.dll</HintPath>
+    </Reference>
+    <Reference Include="MDSModuleControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\MDSModuleControl.dll</HintPath>
+    </Reference>
+    <Reference Include="MDSXFSWrapper, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\MDSXFSWrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.Language.NavigateTo.Interfaces, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="QlmLicenseLib">
+      <HintPath>.\QlmLicenseLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="Page_Cassette.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Page_Password.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Page_Maintenance.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Page_TimeOut.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Page_Cancel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page_Counterfeit.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Page_TakeReturnItem.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Page_RepositionDocument.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Page_DisplayAccountInfo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page_EnterChequeAmount.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Page_EnterBillerAccountNo.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Page_EnterAccountNo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page_CleanFeeder.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Page_SelectAccoutType.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page_SelectMode.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page_SelectTrans.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page_Summary.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Page_Processing.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Page_InsertItem.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Page_OutOfService.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Page_Advertisement.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Page_Initialization.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="clsConvertToTIFF.cs" />
+    <Compile Include="clsCryptography.cs" />
+    <Compile Include="clsGloFun.cs" />
+    <Compile Include="clsGloVar.cs" />
+    <Compile Include="clsIni.cs" />
+    <Compile Include="clsJournal.cs" />
+    <Compile Include="clsLogWriter.cs" />
+    <Compile Include="clsMICR.cs" />
+    <Compile Include="clsPC.cs" />
+    <Compile Include="clsSQL.cs" />
+    <Compile Include="Page_Cassette.xaml.cs">
+      <DependentUpon>Page_Cassette.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_Password.xaml.cs">
+      <DependentUpon>Page_Password.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_Maintenance.xaml.cs">
+      <DependentUpon>Page_Maintenance.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_TimeOut.xaml.cs">
+      <DependentUpon>Page_TimeOut.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_Cancel.xaml.cs">
+      <DependentUpon>Page_Cancel.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_Counterfeit.xaml.cs">
+      <DependentUpon>Page_Counterfeit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_TakeReturnItem.xaml.cs">
+      <DependentUpon>Page_TakeReturnItem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_RepositionDocument.xaml.cs">
+      <DependentUpon>Page_RepositionDocument.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_DisplayAccountInfo.xaml.cs">
+      <DependentUpon>Page_DisplayAccountInfo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_EnterChequeAmount.xaml.cs">
+      <DependentUpon>Page_EnterChequeAmount.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_EnterBillerAccountNo.xaml.cs">
+      <DependentUpon>Page_EnterBillerAccountNo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_EnterAccountNo.xaml.cs">
+      <DependentUpon>Page_EnterAccountNo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_CleanFeeder.xaml.cs">
+      <DependentUpon>Page_CleanFeeder.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_SelectAccoutType.xaml.cs">
+      <DependentUpon>Page_SelectAccoutType.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_SelectMode.xaml.cs">
+      <DependentUpon>Page_SelectMode.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_SelectTrans.xaml.cs">
+      <DependentUpon>Page_SelectTrans.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_Summary.xaml.cs">
+      <DependentUpon>Page_Summary.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_Processing.xaml.cs">
+      <DependentUpon>Page_Processing.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_InsertItem.xaml.cs">
+      <DependentUpon>Page_InsertItem.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_OutOfService.xaml.cs">
+      <DependentUpon>Page_OutOfService.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Page_Advertisement.xaml.cs">
+      <DependentUpon>Page_Advertisement.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="clsWrapper.cs" />
+    <Compile Include="Page_Initialization.xaml.cs">
+      <DependentUpon>Page_Initialization.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="_MDS9000.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

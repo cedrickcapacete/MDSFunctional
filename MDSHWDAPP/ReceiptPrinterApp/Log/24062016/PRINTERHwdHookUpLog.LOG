@@ -1,0 +1,22 @@
+06/24/2016|12:03:05 PM|Info|Log Start
+06/24/2016|12:03:05 PM|Info|Printer Hookup Class Init Ok
+06/24/2016|12:03:05 PM|Info|Printer Spooler Status Ok
+06/24/2016|12:03:05 PM|Info|Printer Status:False
+06/24/2016|12:03:05 PM|Info|Printer Failed:False
+06/24/2016|12:03:05 PM|Info|Paper OK:False
+06/24/2016|12:03:05 PM|Info|Paper Low:False
+06/24/2016|12:03:05 PM|Info|Paper End:False
+06/24/2016|12:03:05 PM|Info|Paper Jam:False
+06/24/2016|12:03:05 PM|Info|RaiseEvent EvtDeviceError
+06/24/2016|12:03:05 PM|Warn|StartDevice - Init Receipt Printer Printer Device Failed
+06/24/2016|12:19:47 PM|Info|Log Start
+06/24/2016|12:19:47 PM|Info|Printer Hookup Class Init Ok
+06/24/2016|12:19:47 PM|Info|Printer Spooler Status Ok
+06/24/2016|12:19:47 PM|Info|Printer Status:False
+06/24/2016|12:19:47 PM|Info|Printer Failed:False
+06/24/2016|12:19:47 PM|Info|Paper OK:False
+06/24/2016|12:19:47 PM|Info|Paper Low:False
+06/24/2016|12:19:47 PM|Info|Paper End:False
+06/24/2016|12:19:47 PM|Info|Paper Jam:False
+06/24/2016|12:19:47 PM|Info|RaiseEvent EvtDeviceError
+06/24/2016|12:19:47 PM|Warn|StartDevice - Init Receipt Printer Printer Device Failed

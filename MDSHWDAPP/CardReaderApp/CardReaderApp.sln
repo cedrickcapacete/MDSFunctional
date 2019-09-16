@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CardReaderMainApp", "CardReaderMainApp\CardReaderMainApp.vbproj", "{802FEB59-946A-4D7B-88FC-8C110519DFFB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "clsCardReader", "AppUtilitiesCls\clsCardReader\clsCardReader.vbproj", "{D1569C4B-DA50-4B00-97E9-E54809123469}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CardReaderHWD", "AppUtilitiesCls\clsCardReaderHWD\CardReaderHWD.vbproj", "{C59910AD-44BF-4FAB-952A-ED6E4BBDE472}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MDSCardReaderSetup", "MDSCardReaderSetup\MDSCardReaderSetup.vdproj", "{6C14DFFA-252E-465B-A777-98BC126CCA03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{802FEB59-946A-4D7B-88FC-8C110519DFFB}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{802FEB59-946A-4D7B-88FC-8C110519DFFB}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{802FEB59-946A-4D7B-88FC-8C110519DFFB}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{802FEB59-946A-4D7B-88FC-8C110519DFFB}.Debug|x86.ActiveCfg = Debug|x86
+		{802FEB59-946A-4D7B-88FC-8C110519DFFB}.Debug|x86.Build.0 = Debug|x86
+		{802FEB59-946A-4D7B-88FC-8C110519DFFB}.Release|Any CPU.ActiveCfg = Release|x86
+		{802FEB59-946A-4D7B-88FC-8C110519DFFB}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{802FEB59-946A-4D7B-88FC-8C110519DFFB}.Release|Mixed Platforms.Build.0 = Release|x86
+		{802FEB59-946A-4D7B-88FC-8C110519DFFB}.Release|x86.ActiveCfg = Release|x86
+		{802FEB59-946A-4D7B-88FC-8C110519DFFB}.Release|x86.Build.0 = Release|x86
+		{D1569C4B-DA50-4B00-97E9-E54809123469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1569C4B-DA50-4B00-97E9-E54809123469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1569C4B-DA50-4B00-97E9-E54809123469}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D1569C4B-DA50-4B00-97E9-E54809123469}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D1569C4B-DA50-4B00-97E9-E54809123469}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D1569C4B-DA50-4B00-97E9-E54809123469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1569C4B-DA50-4B00-97E9-E54809123469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1569C4B-DA50-4B00-97E9-E54809123469}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D1569C4B-DA50-4B00-97E9-E54809123469}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D1569C4B-DA50-4B00-97E9-E54809123469}.Release|x86.ActiveCfg = Release|Any CPU
+		{C59910AD-44BF-4FAB-952A-ED6E4BBDE472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59910AD-44BF-4FAB-952A-ED6E4BBDE472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59910AD-44BF-4FAB-952A-ED6E4BBDE472}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C59910AD-44BF-4FAB-952A-ED6E4BBDE472}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C59910AD-44BF-4FAB-952A-ED6E4BBDE472}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C59910AD-44BF-4FAB-952A-ED6E4BBDE472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59910AD-44BF-4FAB-952A-ED6E4BBDE472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C59910AD-44BF-4FAB-952A-ED6E4BBDE472}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C59910AD-44BF-4FAB-952A-ED6E4BBDE472}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C59910AD-44BF-4FAB-952A-ED6E4BBDE472}.Release|x86.ActiveCfg = Release|Any CPU
+		{6C14DFFA-252E-465B-A777-98BC126CCA03}.Debug|Any CPU.ActiveCfg = Debug
+		{6C14DFFA-252E-465B-A777-98BC126CCA03}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{6C14DFFA-252E-465B-A777-98BC126CCA03}.Debug|x86.ActiveCfg = Debug
+		{6C14DFFA-252E-465B-A777-98BC126CCA03}.Release|Any CPU.ActiveCfg = Release
+		{6C14DFFA-252E-465B-A777-98BC126CCA03}.Release|Mixed Platforms.ActiveCfg = Release
+		{6C14DFFA-252E-465B-A777-98BC126CCA03}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

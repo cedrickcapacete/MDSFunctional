@@ -1,0 +1,42 @@
+6/5/2014|7:43:14 PM|Info|Log Start
+6/5/2014|7:43:14 PM|Info|UPS Main App Init Ok
+6/5/2014|7:43:14 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerLogSetting\UPSMAINAPPLOG.INI
+6/5/2014|7:43:14 PM|Info|AutoHSKLog: HskDate Delete Log File before:4/6/2014 Housekeeping routines day:60
+6/5/2014|7:43:14 PM|Info|AutoHSKLog:Total Log Folder Deleted:2
+6/5/2014|7:43:18 PM|Info|Err in InitDisplay. ErrInfo:Object reference not set to an instance of an object.
+6/5/2014|7:43:23 PM|Info|UPS Device Error
+6/5/2014|7:43:23 PM|Info|StartDevice - Init UPS Failed
+6/5/2014|7:43:34 PM|Info|Log End
+6/5/2014|7:52:02 PM|Info|Log Start
+6/5/2014|7:52:02 PM|Info|UPS Main App Init Ok
+6/5/2014|7:52:02 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerLogSetting\UPSMAINAPPLOG.INI
+6/5/2014|7:52:02 PM|Info|AutoHSKLog: HskDate Delete Log File before:4/6/2014 Housekeeping routines day:60
+6/5/2014|7:52:02 PM|Info|AutoHSKLog:Total Log Folder Deleted:0
+6/5/2014|7:52:03 PM|Info|Err in InitDisplay. ErrInfo:Object reference not set to an instance of an object.
+6/5/2014|7:52:35 PM|Info|Log End
+6/5/2014|7:53:28 PM|Info|Log Start
+6/5/2014|7:53:28 PM|Info|UPS Main App Init Ok
+6/5/2014|7:53:28 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerLogSetting\UPSMAINAPPLOG.INI
+6/5/2014|7:53:28 PM|Info|AutoHSKLog: HskDate Delete Log File before:4/6/2014 Housekeeping routines day:60
+6/5/2014|7:53:28 PM|Info|AutoHSKLog:Total Log Folder Deleted:0
+6/5/2014|7:53:29 PM|Info|Err in InitDisplay. ErrInfo:Object reference not set to an instance of an object.
+6/5/2014|7:53:42 PM|Info|Log End
+6/5/2014|7:54:04 PM|Info|Log Start
+6/5/2014|7:54:04 PM|Info|UPS Main App Init Ok
+6/5/2014|7:54:04 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerLogSetting\UPSMAINAPPLOG.INI
+6/5/2014|7:54:04 PM|Info|AutoHSKLog: HskDate Delete Log File before:4/6/2014 Housekeeping routines day:60
+6/5/2014|7:54:04 PM|Info|AutoHSKLog:Total Log Folder Deleted:0
+6/5/2014|7:54:05 PM|Info|Err in InitDisplay. ErrInfo:Object reference not set to an instance of an object.
+6/5/2014|7:54:30 PM|Info|Log End
+6/5/2014|7:55:03 PM|Info|Log Start
+6/5/2014|7:55:03 PM|Info|UPS Main App Init Ok
+6/5/2014|7:55:03 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerLogSetting\UPSMAINAPPLOG.INI
+6/5/2014|7:55:03 PM|Info|AutoHSKLog: HskDate Delete Log File before:4/6/2014 Housekeeping routines day:60
+6/5/2014|7:55:03 PM|Info|AutoHSKLog:Total Log Folder Deleted:0
+6/5/2014|7:55:05 PM|Info|Err in InitDisplay. ErrInfo:Object reference not set to an instance of an object.
+6/5/2014|7:55:15 PM|Erro|Update UPS Setting Failed
+6/5/2014|7:55:18 PM|Info|UPS Device Error
+6/5/2014|7:55:18 PM|Info|StartDevice - Init UPS Failed
+6/5/2014|7:55:32 PM|Erro|Update UPS Setting Successfully
+6/5/2014|7:55:52 PM|Erro|Update UPS Setting Successfully
+6/5/2014|7:55:58 PM|Info|Log End

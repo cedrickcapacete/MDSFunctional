@@ -1,0 +1,106 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+clsCardReader
+</name>
+</assembly>
+<members>
+<member name="F:clsCardReader.modSankyoCardReader.CmdData.dwSize">
+DWORD-&gt;unsigned int
+
+</member><member name="F:clsCardReader.modSankyoCardReader.CmdData.lpbBody">
+LPBYTE-&gt;BYTE*
+
+</member><member name="F:clsCardReader.modSankyoCardReader.CommandStruct.bCommandCode">
+BYTE-&gt;unsigned char
+
+</member><member name="F:clsCardReader.modSankyoCardReader.CommandStruct.bParameterCode">
+BYTE-&gt;unsigned char
+
+</member><member name="F:clsCardReader.modSankyoCardReader.CommandStruct.Data">
+CmdData
+
+</member><member name="F:clsCardReader.modSankyoCardReader.pStatusCode.bSt1">
+BYTE-&gt;unsigned char
+
+</member><member name="F:clsCardReader.modSankyoCardReader.pStatusCode.bSt0">
+BYTE-&gt;unsigned char
+
+</member><member name="F:clsCardReader.modSankyoCardReader.pDataReply.dwSize">
+DWORD-&gt;unsigned int 
+
+</member><member name="F:clsCardReader.modSankyoCardReader.pDataReply.bBody">
+BYTE[]
+
+</member><member name="F:clsCardReader.modSankyoCardReader.POSITIVE_REPLY.bCommandCode">
+BYTE-&gt;unsigned char
+
+</member><member name="F:clsCardReader.modSankyoCardReader.POSITIVE_REPLY.bParameterCode">
+BYTE-&gt;unsigned char
+
+</member><member name="F:clsCardReader.modSankyoCardReader.POSITIVE_REPLY.StatusCode">
+pStatusCode
+
+</member><member name="F:clsCardReader.modSankyoCardReader.POSITIVE_REPLY.Data">
+DataReply
+
+</member><member name="F:clsCardReader.modSankyoCardReader.nStatusCode.bE1">
+BYTE-&gt;unsigned char
+
+</member><member name="F:clsCardReader.modSankyoCardReader.nStatusCode.bE0">
+BYTE-&gt;unsigned char
+
+</member><member name="F:clsCardReader.modSankyoCardReader.nDataReply.dwSize">
+DWORD-&gt;unsigned int
+
+</member><member name="F:clsCardReader.modSankyoCardReader.nDataReply.bBody">
+BYTE[]
+
+</member><member name="F:clsCardReader.modSankyoCardReader.NEGATIVE_REPLY.bCommandCode">
+BYTE-&gt;unsigned char
+
+</member><member name="F:clsCardReader.modSankyoCardReader.NEGATIVE_REPLY.bParameterCode">
+BYTE-&gt;unsigned char
+
+</member><member name="F:clsCardReader.modSankyoCardReader.NEGATIVE_REPLY.ErrorCode">
+nStatusCode
+
+</member><member name="F:clsCardReader.modSankyoCardReader.NEGATIVE_REPLY.Data">
+nDataReply
+
+</member><member name="F:clsCardReader.modSankyoCardReader.ReplyMessage.positiveReply">
+POSITIVE_REPLY-&gt;Anonymous_11374f74_a0bb_4368_ac94_3db52380d888
+
+</member><member name="F:clsCardReader.modSankyoCardReader.ReplyMessage.negativeReply">
+NEGATIVE_REPLY-&gt;Anonymous_8667a835_401a_48d7_b691_9a7a14093622
+
+</member><member name="F:clsCardReader.modSankyoCardReader.ReplyData.replyType">
+REPLY_TYPE-&gt;Anonymous_352400db_743c_4bc7_85a7_ac187881ab6e
+
+</member><member name="F:clsCardReader.modSankyoCardReader.ReplyData.message">
+Anonymous_f853f5b4_baad_45e9_861c_57329adab44b
+
+</member><member name="M:clsCardReader.modSankyoCardReader.NativeMethods.ExecuteCommand(System.String,clsCardReader.modSankyoCardReader.CommandStruct,System.UInt32,clsCardReader.modSankyoCardReader.ReplyData@)">
+Return Type: DWORD-&gt;unsigned int
+param0: LPCSTR-&gt;CHAR*
+param1: COMMAND-&gt;Anonymous_a5fb3e18_44d5_40e7_8e30_626eb0d94df7
+param2: DWORD-&gt;unsigned int
+param3: LPREPLY-&gt;Anonymous_4ccde0aa_2c5d_43ec_bde1_211582a9ab11*
+
+</member><member name="P:clsCardReader.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:clsCardReader.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:clsCardReader.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,42 @@
+06/24/2016|12:03:06 PM|Info|Log Start - clsUPSHwdInterface
+06/24/2016|12:03:06 PM|Info|== UPS HWD Class Init Ok ==
+06/24/2016|12:03:06 PM|Info|Logger Ini Path:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerLogSetting\UPSHWDLOG.INI
+06/24/2016|12:03:06 PM|Info|UPS HWD Setting:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerParamSetting\UPSHWDCFG.INI
+06/24/2016|12:03:06 PM|Info|UPS Code Setting:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerParamSetting\UPSSTATECODE.INI
+06/24/2016|12:03:06 PM|Info|== UPS Hardware Setting ==
+06/24/2016|12:03:06 PM|Info|Enable UPS=True
+06/24/2016|12:03:06 PM|Info|UPS Status Path=E:\MDSHWDAPP\MDSHWD\UPSApp\TestData\user.log
+06/24/2016|12:03:06 PM|Info|Monitor Interval=5000
+06/24/2016|12:03:06 PM|Info|Seperator Field=,
+06/24/2016|12:03:06 PM|Info|UPSServiceStart=1
+06/24/2016|12:03:06 PM|Info|UPSCommunicationEstablished=2
+06/24/2016|12:03:06 PM|Info|UPSServiceStop=3
+06/24/2016|12:03:06 PM|Info|UPSCommunicationLost=4
+06/24/2016|12:03:06 PM|Info|UPSBatteryMode=5
+06/24/2016|12:03:06 PM|Info|UPSPowerSupplyUp =6
+06/24/2016|12:03:06 PM|Info|== UPS Hardware Setting End==
+06/24/2016|12:03:06 PM|Info|Read UPS Lookup Data Setting OK
+06/24/2016|12:03:06 PM|Erro|UPS Status:4- Communication lost
+06/24/2016|12:03:06 PM|Info|RaiseEvent EvtDeviceError
+06/24/2016|12:03:06 PM|Warn|UPS - StartDevice Failed
+06/24/2016|12:19:47 PM|Info|Log Start - clsUPSHwdInterface
+06/24/2016|12:19:47 PM|Info|== UPS HWD Class Init Ok ==
+06/24/2016|12:19:47 PM|Info|Logger Ini Path:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerLogSetting\UPSHWDLOG.INI
+06/24/2016|12:19:47 PM|Info|UPS HWD Setting:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerParamSetting\UPSHWDCFG.INI
+06/24/2016|12:19:47 PM|Info|UPS Code Setting:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerParamSetting\UPSSTATECODE.INI
+06/24/2016|12:19:47 PM|Info|== UPS Hardware Setting ==
+06/24/2016|12:19:47 PM|Info|Enable UPS=True
+06/24/2016|12:19:47 PM|Info|UPS Status Path=E:\MDSHWDAPP\MDSHWD\UPSApp\TestData\user.log
+06/24/2016|12:19:47 PM|Info|Monitor Interval=5000
+06/24/2016|12:19:47 PM|Info|Seperator Field=,
+06/24/2016|12:19:47 PM|Info|UPSServiceStart=1
+06/24/2016|12:19:47 PM|Info|UPSCommunicationEstablished=2
+06/24/2016|12:19:47 PM|Info|UPSServiceStop=3
+06/24/2016|12:19:47 PM|Info|UPSCommunicationLost=4
+06/24/2016|12:19:47 PM|Info|UPSBatteryMode=5
+06/24/2016|12:19:47 PM|Info|UPSPowerSupplyUp =6
+06/24/2016|12:19:47 PM|Info|== UPS Hardware Setting End==
+06/24/2016|12:19:47 PM|Info|Read UPS Lookup Data Setting OK
+06/24/2016|12:19:47 PM|Erro|UPS Status:4- Communication lost
+06/24/2016|12:19:47 PM|Info|RaiseEvent EvtDeviceError
+06/24/2016|12:19:47 PM|Warn|UPS - StartDevice Failed

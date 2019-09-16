@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7F3A5CCF-8EE6-4D6F-A14A-981C558765C6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>CashDepositor.My.MyApplication</StartupObject>
+    <RootNamespace>CashDepositor</RootNamespace>
+    <AssemblyName>CashDepositorApp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>CashDepositorApp.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>CashDepositorApp.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>AppIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="clsAppLayer">
+      <HintPath>..\..\MDSAppUtilitiesCls\clsAppLayer\clsAppLayer\bin\Debug\clsAppLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="clsAppLogger">
+      <HintPath>..\..\MDSAppUtilitiesCls\clsAppLogger\clsAppLogger\bin\Debug\clsAppLogger.dll</HintPath>
+    </Reference>
+    <Reference Include="clsAppMainDirectory">
+      <HintPath>..\..\MDSAppUtilitiesCls\clsAppMainDirectory\clsAppMainDirectory\bin\Debug\clsAppMainDirectory.dll</HintPath>
+    </Reference>
+    <Reference Include="clsHWDGlobalInterface">
+      <HintPath>..\..\MDSAppUtilitiesCls\clsHWDGlobalInterface\clsHWDGlobalInterface\bin\Debug\clsHWDGlobalInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="FileUtils, Version=1.0.2518.31021, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\MDSAppUtilitiesCls\FileUtils\FileUtils\bin\Debug\FileUtils.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppClasses\clsReadAppCfg.vb" />
+    <Compile Include="AppModuels\modGlobalVar.vb" />
+    <Compile Include="AppModuels\modLogFileHosekeeping.vb" />
+    <Compile Include="AppModuels\modLoggerFunc.vb" />
+    <Compile Include="AppModuels\modReadINI.vb" />
+    <Compile Include="CashDepositorApp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashDepositorApp.Designer.vb">
+      <DependentUpon>CashDepositorApp.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChequeDepositorApp.Designer.vb">
+      <DependentUpon>ChequeDepositorApp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ChequeDepositorApp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoorSensorApp.Designer.vb">
+      <DependentUpon>DoorSensorApp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DoorSensorApp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainCFG.Designer.vb">
+      <DependentUpon>frmMainCFG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainCFG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMaintenanceMode.Designer.vb">
+      <DependentUpon>frmMaintenanceMode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaintenanceMode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMDSExchange.Designer.vb">
+      <DependentUpon>frmMDSExchange.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMDSExchange.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMDSLightControl.Designer.vb">
+      <DependentUpon>frmMDSLightControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMDSLightControl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMDSMainMenu.Designer.vb">
+      <DependentUpon>frmMDSMainMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMDSMainMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMDSSetting.Designer.vb">
+      <DependentUpon>frmMDSSetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMDSSetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewChqImages.Designer.vb">
+      <DependentUpon>frmViewChqImages.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewChqImages.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CashDepositorApp.resx">
+      <DependentUpon>CashDepositorApp.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChequeDepositorApp.resx">
+      <DependentUpon>ChequeDepositorApp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoorSensorApp.resx">
+      <DependentUpon>DoorSensorApp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainCFG.resx">
+      <DependentUpon>frmMainCFG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMaintenanceMode.resx">
+      <DependentUpon>frmMaintenanceMode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMDSExchange.resx">
+      <DependentUpon>frmMDSExchange.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMDSLightControl.resx">
+      <DependentUpon>frmMDSLightControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMDSMainMenu.resx">
+      <DependentUpon>frmMDSMainMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMDSSetting.resx">
+      <DependentUpon>frmMDSSetting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewChqImages.resx">
+      <DependentUpon>frmViewChqImages.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AppIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AppUtilitiesCls\CashDepositorHWD\CashDepositorHWD.vbproj">
+      <Project>{682E8397-FEFA-46A6-8DD8-E0656063415B}</Project>
+      <Name>CashDepositorHWD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AppUtilitiesCls\ChequeDepositHWD\ChequeDepositHWD.vbproj">
+      <Project>{E0C3742A-FB33-4731-AAB7-502022E863C2}</Project>
+      <Name>ChequeDepositHWD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AppUtilitiesCls\DoorSensorHWD\DoorSensorHWD.vbproj">
+      <Project>{63D11E3F-91D7-473F-A30D-50592D9AF489}</Project>
+      <Name>DoorSensorHWD</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

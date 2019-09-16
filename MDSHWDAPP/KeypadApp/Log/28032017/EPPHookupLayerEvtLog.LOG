@@ -1,0 +1,7 @@
+3/28/2017|7:57:04 AM|Info|Log Start
+3/28/2017|7:57:04 AM|Info|EPP Hookup Class Init Ok
+3/28/2017|7:57:04 AM|Info|EPP Hookup Log Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHookupLOG.INI
+3/28/2017|7:57:04 AM|Info|Read Keypad Hardware Setting Ok
+3/28/2017|7:57:04 AM|Info|Init Keypad Hardware Ok
+3/28/2017|7:57:08 AM|Erro|Init Keypad Device Failed
+3/28/2017|7:57:08 AM|Warn|Raise event in Keypad: EvtDeviceError

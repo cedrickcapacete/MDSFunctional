@@ -1,0 +1,32 @@
+06/23/2016|11:26:01 AM|Info|Log Start
+06/23/2016|11:26:01 AM|Info|Keypad Layer Class Init Ok
+06/23/2016|11:26:01 AM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+06/23/2016|11:26:01 AM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+06/23/2016|11:26:01 AM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+06/23/2016|11:26:01 AM|Info|Read Sagem Keypad Hardware Setting OK
+06/23/2016|11:26:01 AM|Info|Model:Sagem EPP INT1217-4010
+06/23/2016|11:26:01 AM|Info|Comport:COM2
+06/23/2016|11:26:01 AM|Info|Baudrate:115200
+06/23/2016|11:26:01 AM|Info|Timeout:60000
+06/23/2016|11:26:01 AM|Info|Read Keypad Lookup Data Setting OK
+06/23/2016|11:26:01 AM|Info|Read Keypad HWD CFG Info OK
+06/23/2016|11:26:01 AM|Info|Read Keypad HWD CFG Info OK
+06/23/2016|11:26:06 AM|Info|clsKeyControl. Send_CmdStartClearTextMode
+06/23/2016|11:26:06 AM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+06/23/2016|11:26:06 AM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0
+06/23/2016|11:30:17 AM|Info|Log Start
+06/23/2016|11:30:17 AM|Info|Keypad Layer Class Init Ok
+06/23/2016|11:30:17 AM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+06/23/2016|11:30:17 AM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+06/23/2016|11:30:17 AM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+06/23/2016|11:30:17 AM|Info|Read Sagem Keypad Hardware Setting OK
+06/23/2016|11:30:17 AM|Info|Model:Sagem EPP INT1217-4010
+06/23/2016|11:30:17 AM|Info|Comport:COM2
+06/23/2016|11:30:17 AM|Info|Baudrate:115200
+06/23/2016|11:30:17 AM|Info|Timeout:60000
+06/23/2016|11:30:17 AM|Info|Read Keypad Lookup Data Setting OK
+06/23/2016|11:30:17 AM|Info|Read Keypad HWD CFG Info OK
+06/23/2016|11:30:17 AM|Info|Read Keypad HWD CFG Info OK
+06/23/2016|11:30:18 AM|Info|clsKeyControl. Send_CmdStartClearTextMode
+06/23/2016|11:30:18 AM|Info|clsEPPKeyPad - CMD_Set_Clear_Text
+06/23/2016|11:30:18 AM|Info|clsEPPKeyPad - CMD_Set_Clear_Text: RC=0

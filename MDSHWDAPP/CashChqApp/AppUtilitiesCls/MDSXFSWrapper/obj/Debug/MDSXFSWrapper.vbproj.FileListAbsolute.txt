@@ -1,0 +1,228 @@
+F:\Users\mfwoo\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.dll
+F:\Users\mfwoo\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.pdb
+F:\Users\mfwoo\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.xml
+F:\Users\mfwoo\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.Resources.resources
+F:\Users\mfwoo\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.vbproj.GenerateResource.Cache
+F:\Users\mfwoo\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.dll
+F:\Users\mfwoo\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.xml
+F:\Users\mfwoo\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.pdb
+C:\Users\Interdeals\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.dll
+C:\Users\Interdeals\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.pdb
+C:\Users\Interdeals\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.xml
+C:\Users\Interdeals\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Interdeals\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.Resources.resources
+C:\Users\Interdeals\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Interdeals\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Interdeals\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.dll
+C:\Users\Interdeals\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.xml
+C:\Users\Interdeals\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.pdb
+C:\Users\Interdeals\Documents\Visual Studio 2010\Projects\MDSDemoWrapperGUI-Draft\MDSXFSWrapper\bin\Debug\QlmLicenseLib.dll
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.dll
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.pdb
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.xml
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.dll
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.dll
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\FileUtils.dll
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.dll
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.pdb
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.xml
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.pdb
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.xml
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.pdb
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.xml
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\ResolveAssemblyReference.cache
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.Resources.resources
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\GenerateResource.read.1.tlog
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\GenerateResource.write.1.tlog
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.dll
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.xml
+E:\MDSHWDControlPanel\HWDLAYER\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.pdb
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.dll
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.pdb
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.xml
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.dll
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.dll
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\FileUtils.dll
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.dll
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.pdb
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.xml
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.pdb
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.xml
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.pdb
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.xml
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\ResolveAssemblyReference.cache
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.Resources.resources
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\GenerateResource.read.1.tlog
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\GenerateResource.write.1.tlog
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.dll
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.xml
+D:\Machine\MDS Project\Rototype Software\Wrapper\CashDepositorApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.pdb
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.dll
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.pdb
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.xml
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.dll
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.dll
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\FileUtils.dll
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.dll
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.pdb
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.xml
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.pdb
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.xml
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.pdb
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.xml
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\ResolveAssemblyReference.cache
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.Resources.resources
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\GenerateResource.read.1.tlog
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\GenerateResource.write.1.tlog
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.dll
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.xml
+D:\Machine\MDS Project\Rototype Software\Wrapper\Change - 20072013\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.pdb
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.dll
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.pdb
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.xml
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.dll
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.dll
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\FileUtils.dll
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.dll
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.pdb
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.xml
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.pdb
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.xml
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.pdb
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.xml
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.Resources.resources
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\GenerateResource.read.1.tlog
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\GenerateResource.write.1.tlog
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.dll
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.xml
+D:\Work\Application Develop\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.pdb
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.dll
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.pdb
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.xml
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.dll
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.dll
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\FileUtils.dll
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.dll
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.pdb
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.xml
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.pdb
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.xml
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.pdb
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.xml
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\ResolveAssemblyReference.cache
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.Resources.resources
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\GenerateResource.read.1.tlog
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\GenerateResource.write.1.tlog
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.dll
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.xml
+D:\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.pdb
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.dll
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.pdb
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.xml
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.dll
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.dll
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\FileUtils.dll
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.dll
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.pdb
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.xml
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.pdb
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.xml
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.pdb
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.xml
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\ResolveAssemblyReference.cache
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.Resources.resources
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\GenerateResource.read.1.tlog
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\GenerateResource.write.1.tlog
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.dll
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.xml
+E:\MDSHWDControlPanel\HWDLAYER\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.pdb
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.dll
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.pdb
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.xml
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.dll
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.dll
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\FileUtils.dll
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.dll
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.pdb
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.xml
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.pdb
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.xml
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.pdb
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsSysAppPathCFG.xml
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\ResolveAssemblyReference.cache
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.Resources.resources
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\GenerateResource.read.1.tlog
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\GenerateResource.write.1.tlog
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.dll
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.xml
+D:\Machine\MDS Project\MDSDev\HWDLayer\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.pdb
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.dll
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.pdb
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.xml
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.dll
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.dll
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\FileUtils.dll
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.pdb
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\ClsAppLayerINI.xml
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.pdb
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\clsLogFileLogger.xml
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.vbprojResolveAssemblyReference.cache
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.Resources.resources
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.vbproj.GenerateResource.Cache
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.dll
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.xml
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.pdb
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\AppMainDirectory.dll
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\AppMainDirectory.pdb
+E:\HWDAPP\MDSHWD\CashChqApp\HWDLayerCls\MDSXFSWrapper\bin\Debug\AppMainDirectory.xml
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.dll
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.pdb
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.xml
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\FileUtils.dll
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.Resources.resources
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.vbproj.GenerateResource.Cache
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.dll
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.xml
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.pdb
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppLayer.dll
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppLogger.dll
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppMainDirectory.dll
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsHWDGlobalInterface.dll
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppLayer.pdb
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppLayer.xml
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppLogger.pdb
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppLogger.xml
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppMainDirectory.pdb
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppMainDirectory.xml
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsHWDGlobalInterface.pdb
+E:\HWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsHWDGlobalInterface.xml
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.dll
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.pdb
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\MDSXFSWrapper.xml
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppLayer.dll
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppLogger.dll
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppMainDirectory.dll
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsHWDGlobalInterface.dll
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\FileUtils.dll
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppLayer.pdb
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppLayer.xml
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppLogger.pdb
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppLogger.xml
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppMainDirectory.pdb
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsAppMainDirectory.xml
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsHWDGlobalInterface.pdb
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\clsHWDGlobalInterface.xml
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\FileUtils.pdb
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\bin\Debug\FileUtils.xml
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.Resources.resources
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.vbproj.GenerateResource.Cache
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.dll
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.xml
+E:\MDSHWDAPP\MDSHWD\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.pdb
+E:\. functional\. source\mds\MDS 9000\MDSHWDAPP\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.vbprojResolveAssemblyReference.cache
+E:\. functional\. source\mds\MDS 9000\MDSHWDAPP\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.Resources.resources
+E:\. functional\. source\mds\MDS 9000\MDSHWDAPP\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.vbproj.GenerateResource.Cache
+E:\. functional\. source\mds\MDS 9000\MDSHWDAPP\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.dll
+E:\. functional\. source\mds\MDS 9000\MDSHWDAPP\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.xml
+E:\. functional\. source\mds\MDS 9000\MDSHWDAPP\CashChqApp\AppUtilitiesCls\MDSXFSWrapper\obj\Debug\MDSXFSWrapper.pdb

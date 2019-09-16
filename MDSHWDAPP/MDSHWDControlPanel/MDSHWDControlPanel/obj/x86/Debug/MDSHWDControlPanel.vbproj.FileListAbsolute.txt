@@ -1,0 +1,11 @@
+E:\MDSHWDAPP\MDSHWD\MDSHWDControlPanel\MDSHWDControlPanel\bin\Debug\MDSHWDControlPanel.exe
+E:\MDSHWDAPP\MDSHWD\MDSHWDControlPanel\MDSHWDControlPanel\bin\Debug\MDSHWDControlPanel.pdb
+E:\MDSHWDAPP\MDSHWD\MDSHWDControlPanel\MDSHWDControlPanel\bin\Debug\MDSHWDControlPanel.xml
+E:\MDSHWDAPP\MDSHWD\MDSHWDControlPanel\MDSHWDControlPanel\obj\x86\Debug\MDSHWDControlPanel.frmHWDMain.resources
+E:\MDSHWDAPP\MDSHWD\MDSHWDControlPanel\MDSHWDControlPanel\obj\x86\Debug\MDSHWDControlPanel.Resources.resources
+E:\MDSHWDAPP\MDSHWD\MDSHWDControlPanel\MDSHWDControlPanel\obj\x86\Debug\MDSHWDControlPanel.vbproj.GenerateResource.Cache
+E:\MDSHWDAPP\MDSHWD\MDSHWDControlPanel\MDSHWDControlPanel\obj\x86\Debug\MDSHWDControlPanel.exe
+E:\MDSHWDAPP\MDSHWD\MDSHWDControlPanel\MDSHWDControlPanel\obj\x86\Debug\MDSHWDControlPanel.xml
+E:\MDSHWDAPP\MDSHWD\MDSHWDControlPanel\MDSHWDControlPanel\obj\x86\Debug\MDSHWDControlPanel.pdb
+E:\MDSHWDAPP\MDSHWD\MDSHWDControlPanel\MDSHWDControlPanel\obj\x86\Debug\MDSHWDControlPanel.frmLogin.resources
+E:\MDSHWDAPP\MDSHWD\MDSHWDControlPanel\MDSHWDControlPanel\obj\x86\Debug\MDSHWDControlPanel.frmVendorToolsMenu.resources

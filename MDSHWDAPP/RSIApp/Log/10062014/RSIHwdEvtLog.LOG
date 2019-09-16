@@ -1,0 +1,20 @@
+6/10/2014|1:02:46 PM|Info|Log Start
+6/10/2014|1:02:46 PM|Info|== RSI HWD Class Init Ok ==
+6/10/2014|1:02:46 PM|Info|Logger Ini Path:E:\MDSHWDAPP\MDSHWD\RSIApp\AppIniFile\AppLayerIni\AppLayerLogSetting\RSIHWDLOG.INI
+6/10/2014|1:02:46 PM|Info|RSI HWD Setting:E:\MDSHWDAPP\MDSHWD\RSIApp\AppIniFile\AppLayerIni\AppLayerParamSetting\RSIHWDCFG.INI
+6/10/2014|1:02:46 PM|Info|RSI Code Setting:E:\MDSHWDAPP\MDSHWD\RSIApp\AppIniFile\AppLayerIni\AppLayerParamSetting\RSISTATECODE.INI
+6/10/2014|1:02:46 PM|Info|== RSI Hardware Setting ==
+6/10/2014|1:02:46 PM|Info|Enable RSI=True
+6/10/2014|1:02:46 PM|Info|RSI No of Comport=1
+6/10/2014|1:02:46 PM|Info|Comport 1=5
+6/10/2014|1:02:46 PM|Info|Baudrate=9600
+6/10/2014|1:02:46 PM|Info|Parity=0
+6/10/2014|1:02:46 PM|Info|Databits=8
+6/10/2014|1:02:46 PM|Info|Stopbits=1
+6/10/2014|1:02:46 PM|Info|Comport 2=6
+6/10/2014|1:02:46 PM|Info|Baudrate=9600
+6/10/2014|1:02:46 PM|Info|Parity=0
+6/10/2014|1:02:46 PM|Info|Databits=8
+6/10/2014|1:02:46 PM|Info|Stopbits=1
+6/10/2014|1:02:46 PM|Info|== RSI Hardware Setting End==
+6/10/2014|1:02:46 PM|Info|Read RSI Lookup Data Setting OK

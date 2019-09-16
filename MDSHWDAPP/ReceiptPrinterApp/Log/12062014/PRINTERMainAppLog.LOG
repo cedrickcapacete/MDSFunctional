@@ -1,0 +1,50 @@
+6/12/2014|11:02:11 AM|Info|Log Start
+6/12/2014|11:02:11 AM|Info|Printer Main App Init Ok
+6/12/2014|11:02:11 AM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\ReceiptPrinterApp\AppIniFile\AppLayerIni\AppLayerLogSetting\PRINTERMAINAPPLOG.INI
+6/12/2014|11:02:11 AM|Info|App HSK INI Path:E:\MDSHWDAPP\MDSHWD\ReceiptPrinterApp\AppIniFile\AppHSKCFG.ini
+6/12/2014|11:02:11 AM|Info|App Mode Path:E:\MDSHWDAPP\MDSHWD\ReceiptPrinterApp\AppIniFile\AppCFG.ini
+6/12/2014|11:02:11 AM|Info|AutoHSKLog: HskDate Delete Log File before:4/13/2014 Housekeeping routines day:60
+6/12/2014|11:02:11 AM|Info|AutoHSKLog:Total Log Folder Deleted:0
+6/12/2014|11:02:11 AM|Info|App Mode =0
+6/12/2014|11:02:16 AM|Info|Printer Diagnostic Mode Selected - Engineer
+6/12/2014|11:02:16 AM|Info|== Start Printer Diagnostic Mode ==
+6/12/2014|11:02:26 AM|Info|== Start Printer Setting ==
+6/12/2014|11:02:26 AM|Info|Err in frmPrinterSetting.InitDisplay. ErrInfo:Object reference not set to an instance of an object.
+6/12/2014|11:02:29 AM|Info|== End Printer Setting ==
+6/12/2014|11:02:30 AM|Info|== Start Printer Setting ==
+6/12/2014|11:02:30 AM|Info|Err in frmPrinterSetting.InitDisplay. ErrInfo:Object reference not set to an instance of an object.
+6/12/2014|11:02:32 AM|Info|== End Printer Setting ==
+6/12/2014|11:02:33 AM|Info|== End Printer Diagnostic Mode ==
+6/12/2014|11:02:34 AM|Info|Log End
+6/12/2014|11:03:03 AM|Info|Log Start
+6/12/2014|11:03:03 AM|Info|Printer Main App Init Ok
+6/12/2014|11:03:03 AM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\ReceiptPrinterApp\AppIniFile\AppLayerIni\AppLayerLogSetting\PRINTERMAINAPPLOG.INI
+6/12/2014|11:03:03 AM|Info|App HSK INI Path:E:\MDSHWDAPP\MDSHWD\ReceiptPrinterApp\AppIniFile\AppHSKCFG.ini
+6/12/2014|11:03:03 AM|Info|App Mode Path:E:\MDSHWDAPP\MDSHWD\ReceiptPrinterApp\AppIniFile\AppCFG.ini
+6/12/2014|11:03:03 AM|Info|AutoHSKLog: HskDate Delete Log File before:4/13/2014 Housekeeping routines day:60
+6/12/2014|11:03:03 AM|Info|AutoHSKLog:Total Log Folder Deleted:0
+6/12/2014|11:03:03 AM|Info|App Mode =0
+6/12/2014|11:03:03 AM|Info|Printer Diagnostic Mode Selected - Engineer
+6/12/2014|11:03:03 AM|Info|== Start Printer Diagnostic Mode ==
+6/12/2014|11:03:04 AM|Info|== Start Printer Setting ==
+6/12/2014|11:03:24 AM|Info|Err in frmPrinterSetting.InitDisplay. ErrInfo:Object reference not set to an instance of an object.
+6/12/2014|11:03:26 AM|Info|== End Printer Setting ==
+6/12/2014|11:03:29 AM|Info|== End Printer Diagnostic Mode ==
+6/12/2014|11:03:30 AM|Info|Log End
+6/12/2014|11:10:50 AM|Info|Log Start
+6/12/2014|11:10:50 AM|Info|Printer Main App Init Ok
+6/12/2014|11:10:50 AM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\ReceiptPrinterApp\AppIniFile\AppLayerIni\AppLayerLogSetting\PRINTERMAINAPPLOG.INI
+6/12/2014|11:10:50 AM|Info|App HSK INI Path:E:\MDSHWDAPP\MDSHWD\ReceiptPrinterApp\AppIniFile\AppHSKCFG.ini
+6/12/2014|11:10:50 AM|Info|App Mode Path:E:\MDSHWDAPP\MDSHWD\ReceiptPrinterApp\AppIniFile\AppCFG.ini
+6/12/2014|11:10:50 AM|Info|AutoHSKLog: HskDate Delete Log File before:4/13/2014 Housekeeping routines day:60
+6/12/2014|11:10:50 AM|Info|AutoHSKLog:Total Log Folder Deleted:0
+6/12/2014|11:10:50 AM|Info|App Mode =0
+6/12/2014|11:10:51 AM|Info|Printer Diagnostic Mode Selected - Engineer
+6/12/2014|11:10:51 AM|Info|== Start Printer Diagnostic Mode ==
+6/12/2014|11:10:52 AM|Info|== Start Printer Setting ==
+6/12/2014|11:10:54 AM|Info|== End Printer Setting ==
+6/12/2014|11:11:00 AM|Info|== End Printer Diagnostic Mode ==
+6/12/2014|11:11:01 AM|Info|Printer System Maintenance Mode Selected
+6/12/2014|11:11:01 AM|Info|== Start Printer System Mode ==
+6/12/2014|11:11:09 AM|Info|== End Printer System Mode ==
+6/12/2014|11:11:10 AM|Info|Log End

@@ -1,0 +1,20 @@
+﻿APP
+
+
+winexe
+C#
+.cs
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\obj\x86\Debug\
+WpfApplication1
+none
+false
+DEBUG;TRACE
+C:\Users\FUNCTIONAL INC\Desktop\Functional MDS\FMDS\App.xaml
+23-1269029882
+
+391691228668
+261558369350
+Page_Cassette.xaml;Page_Password.xaml;Page_Maintenance.xaml;Page_TimeOut.xaml;Page_Cancel.xaml;Page_Counterfeit.xaml;Page_TakeReturnItem.xaml;Page_RepositionDocument.xaml;Page_DisplayAccountInfo.xaml;Page_EnterChequeAmount.xaml;Page_EnterBillerAccountNo.xaml;Page_EnterAccountNo.xaml;Page_CleanFeeder.xaml;Page_SelectAccoutType.xaml;Page_SelectMode.xaml;Page_SelectTrans.xaml;Page_Summary.xaml;Page_Processing.xaml;Page_InsertItem.xaml;Page_OutOfService.xaml;Page_Advertisement.xaml;Page_Initialization.xaml;MainWindow.xaml;
+
+False
+

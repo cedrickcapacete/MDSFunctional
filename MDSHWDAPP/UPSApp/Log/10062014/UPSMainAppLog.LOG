@@ -1,0 +1,29 @@
+6/10/2014|2:11:31 PM|Info|Log Start
+6/10/2014|2:11:31 PM|Info|UPS Main App Init Ok
+6/10/2014|2:11:31 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerLogSetting\UPSMAINAPPLOG.INI
+6/10/2014|2:11:31 PM|Info|App HSK INI Path:
+6/10/2014|2:11:31 PM|Info|App Mode Path:
+6/10/2014|2:11:31 PM|Info|Auto Log Housekeeping Disable - Manual Housekeeping
+6/10/2014|2:11:31 PM|Warn|App Mode INI File: Not Found
+6/10/2014|2:11:33 PM|Info|UPS Diagnostic Mode Selected - Engineer
+6/10/2014|2:11:54 PM|Info|Log End
+6/10/2014|2:58:29 PM|Info|Log Start
+6/10/2014|2:58:29 PM|Info|UPS Main App Init Ok
+6/10/2014|2:58:42 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerLogSetting\UPSMAINAPPLOG.INI
+6/10/2014|2:58:52 PM|Info|App HSK INI Path:
+6/10/2014|2:58:52 PM|Info|App Mode Path:
+6/10/2014|2:58:52 PM|Info|Auto Log Housekeeping Disable - Manual Housekeeping
+6/10/2014|2:59:05 PM|Warn|App Mode INI File: Not Found
+6/10/2014|2:59:07 PM|Info|Log End
+6/10/2014|3:53:36 PM|Info|Log Start
+6/10/2014|3:53:36 PM|Info|UPS Main App Init Ok
+6/10/2014|3:53:36 PM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerLogSetting\UPSMAINAPPLOG.INI
+6/10/2014|3:53:36 PM|Info|App HSK INI Path:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppHSKCFG.ini
+6/10/2014|3:53:36 PM|Info|App Mode Path:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppCFG.ini
+6/10/2014|3:53:36 PM|Info|AutoHSKLog: HskDate Delete Log File before:4/11/2014 Housekeeping routines day:60
+6/10/2014|3:53:36 PM|Info|AutoHSKLog:Total Log Folder Deleted:0
+6/10/2014|3:53:36 PM|Info|App Mode =1
+6/10/2014|3:53:36 PM|Info|UPS Diagnostic Mode Selected - Engineer
+6/10/2014|3:53:36 PM|Info|== Start UPS Diagnostic Mode ==
+6/10/2014|3:53:48 PM|Info|== End UPS Diagnostic Mode ==
+6/10/2014|3:53:50 PM|Info|Log End

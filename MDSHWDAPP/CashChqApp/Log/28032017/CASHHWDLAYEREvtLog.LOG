@@ -1,0 +1,4 @@
+3/28/2017|7:57:18 AM|Info|Log Start - clsCashHWDInterface
+3/28/2017|7:57:18 AM|Info|clsCashHWDInterface - MDS - CASH Hookup Class Init Ok
+3/28/2017|7:57:18 AM|Info|clsCashHWDInterface - Logger INI Path:E:\MDSHWDAPP\MDSHWD\CashChqApp\AppIniFile\AppLayerIni\AppLayerLogSetting\CASHHWDLOG.INI
+3/28/2017|7:57:19 AM|Erro|clsCashHWDInterface - MDS Cash - StartDevice Fail

@@ -1,0 +1,55 @@
+6/10/2014|2:11:31 PM|Info|Log Start - clsUPSHwdInterface
+6/10/2014|2:11:31 PM|Info|== UPS HWD Class Init Ok ==
+6/10/2014|2:11:31 PM|Info|Logger Ini Path:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerLogSetting\UPSHWDLOG.INI
+6/10/2014|2:11:31 PM|Info|UPS HWD Setting:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerParamSetting\UPSHWDCFG.INI
+6/10/2014|2:11:31 PM|Info|UPS Code Setting:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerParamSetting\UPSSTATECODE.INI
+6/10/2014|2:11:31 PM|Info|== UPS Hardware Setting ==
+6/10/2014|2:11:31 PM|Info|Enable UPS=True
+6/10/2014|2:11:31 PM|Info|UPS Status Path=E:\MDSHWDAPP\MDSHWD\UPSApp\TestData\user.log
+6/10/2014|2:11:31 PM|Info|Monitor Interval=5000
+6/10/2014|2:11:31 PM|Info|Seperator Field=,
+6/10/2014|2:11:31 PM|Info|UPSServiceStart=1
+6/10/2014|2:11:31 PM|Info|UPSCommunicationEstablished=2
+6/10/2014|2:11:31 PM|Info|UPSServiceStop=3
+6/10/2014|2:11:31 PM|Info|UPSCommunicationLost=4
+6/10/2014|2:11:31 PM|Info|UPSBatteryMode=5
+6/10/2014|2:11:31 PM|Info|UPSPowerSupplyUp =6
+6/10/2014|2:11:31 PM|Info|== UPS Hardware Setting End==
+6/10/2014|2:11:31 PM|Info|Read UPS Lookup Data Setting OK
+6/10/2014|2:57:11 PM|Info|Log Start - clsUPSHwdInterface
+6/10/2014|2:57:11 PM|Info|== UPS HWD Class Init Ok ==
+6/10/2014|2:57:11 PM|Info|Logger Ini Path:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerLogSetting\UPSHWDLOG.INI
+6/10/2014|2:57:11 PM|Info|UPS HWD Setting:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerParamSetting\UPSHWDCFG.INI
+6/10/2014|2:57:11 PM|Info|UPS Code Setting:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerParamSetting\UPSSTATECODE.INI
+6/10/2014|2:57:11 PM|Info|== UPS Hardware Setting ==
+6/10/2014|2:57:11 PM|Info|Enable UPS=True
+6/10/2014|2:57:11 PM|Info|UPS Status Path=E:\MDSHWDAPP\MDSHWD\UPSApp\TestData\user.log
+6/10/2014|2:57:11 PM|Info|Monitor Interval=5000
+6/10/2014|2:57:11 PM|Info|Seperator Field=,
+6/10/2014|2:57:11 PM|Info|UPSServiceStart=1
+6/10/2014|2:57:11 PM|Info|UPSCommunicationEstablished=2
+6/10/2014|2:57:11 PM|Info|UPSServiceStop=3
+6/10/2014|2:57:11 PM|Info|UPSCommunicationLost=4
+6/10/2014|2:57:11 PM|Info|UPSBatteryMode=5
+6/10/2014|2:57:11 PM|Info|UPSPowerSupplyUp =6
+6/10/2014|2:57:11 PM|Info|== UPS Hardware Setting End==
+6/10/2014|2:57:11 PM|Info|Read UPS Lookup Data Setting OK
+6/10/2014|3:53:36 PM|Info|Log Start - clsUPSHwdInterface
+6/10/2014|3:53:36 PM|Info|== UPS HWD Class Init Ok ==
+6/10/2014|3:53:36 PM|Info|Logger Ini Path:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerLogSetting\UPSHWDLOG.INI
+6/10/2014|3:53:36 PM|Info|UPS HWD Setting:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerParamSetting\UPSHWDCFG.INI
+6/10/2014|3:53:36 PM|Info|UPS Code Setting:E:\MDSHWDAPP\MDSHWD\UPSApp\AppIniFile\AppLayerIni\AppLayerParamSetting\UPSSTATECODE.INI
+6/10/2014|3:53:36 PM|Info|== UPS Hardware Setting ==
+6/10/2014|3:53:36 PM|Info|Enable UPS=True
+6/10/2014|3:53:36 PM|Info|UPS Status Path=E:\MDSHWDAPP\MDSHWD\UPSApp\TestData\user.log
+6/10/2014|3:53:36 PM|Info|Monitor Interval=5000
+6/10/2014|3:53:36 PM|Info|Seperator Field=,
+6/10/2014|3:53:36 PM|Info|UPSServiceStart=1
+6/10/2014|3:53:36 PM|Info|UPSCommunicationEstablished=2
+6/10/2014|3:53:36 PM|Info|UPSServiceStop=3
+6/10/2014|3:53:36 PM|Info|UPSCommunicationLost=4
+6/10/2014|3:53:36 PM|Info|UPSBatteryMode=5
+6/10/2014|3:53:36 PM|Info|UPSPowerSupplyUp =6
+6/10/2014|3:53:36 PM|Info|== UPS Hardware Setting End==
+6/10/2014|3:53:36 PM|Info|Read UPS Lookup Data Setting OK
+6/10/2014|3:53:48 PM|Info|UPS - StopDevice Success

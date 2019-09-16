@@ -1,0 +1,13 @@
+3/28/2017|7:57:04 AM|Info|Log Start
+3/28/2017|7:57:04 AM|Info|Keypad Layer Class Init Ok
+3/28/2017|7:57:04 AM|Info|Logger INI Path:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerLogSetting\EPPHWDLOG.INI
+3/28/2017|7:57:04 AM|Info|Keypad HWD INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADHWDCFG.INI
+3/28/2017|7:57:04 AM|Info|Keypad Lookup Data INI PATH:E:\MDSHWDAPP\MDSHWD\KeypadApp\AppIniFile\AppLayerIni\AppLayerParamSetting\KEYPADSTATECODE.INI
+3/28/2017|7:57:04 AM|Info|Read Sagem Keypad Hardware Setting OK
+3/28/2017|7:57:04 AM|Info|Model:Sagem EPP INT1217-4010
+3/28/2017|7:57:04 AM|Info|Comport:COM2
+3/28/2017|7:57:04 AM|Info|Baudrate:115200
+3/28/2017|7:57:04 AM|Info|Timeout:60000
+3/28/2017|7:57:04 AM|Info|Read Keypad Lookup Data Setting OK
+3/28/2017|7:57:04 AM|Info|Read Keypad HWD CFG Info OK
+3/28/2017|7:57:08 AM|Info|Read Keypad HWD CFG Info OK

@@ -1,0 +1,8 @@
+E:\MDSHWDAPP\MDSHWD\MDSAppUtilitiesCls\FileUtils\FileUtils\bin\Debug\FileUtils.dll
+E:\MDSHWDAPP\MDSHWD\MDSAppUtilitiesCls\FileUtils\FileUtils\bin\Debug\FileUtils.pdb
+E:\MDSHWDAPP\MDSHWD\MDSAppUtilitiesCls\FileUtils\FileUtils\bin\Debug\FileUtils.xml
+E:\MDSHWDAPP\MDSHWD\MDSAppUtilitiesCls\FileUtils\FileUtils\obj\Debug\FileUtils.Resources.resources
+E:\MDSHWDAPP\MDSHWD\MDSAppUtilitiesCls\FileUtils\FileUtils\obj\Debug\FileUtils.vbproj.GenerateResource.Cache
+E:\MDSHWDAPP\MDSHWD\MDSAppUtilitiesCls\FileUtils\FileUtils\obj\Debug\FileUtils.dll
+E:\MDSHWDAPP\MDSHWD\MDSAppUtilitiesCls\FileUtils\FileUtils\obj\Debug\FileUtils.xml
+E:\MDSHWDAPP\MDSHWD\MDSAppUtilitiesCls\FileUtils\FileUtils\obj\Debug\FileUtils.pdb
