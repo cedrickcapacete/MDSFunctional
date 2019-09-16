@@ -247,6 +247,7 @@ namespace WpfApplication1 {
 
                 clsGloVar.str_CashEscrow = "";
 
+                //test for all checking
                 foreach (MDSControl.NoteSet ns in Mds1.TransactionNoteList()) {
                     if (ns.Level.ToString() == "Good") {
                         
